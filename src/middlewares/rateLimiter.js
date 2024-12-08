@@ -1,21 +1,9 @@
 const rateLimit = require('express-rate-limit');
-const RedisStore = require('rate-limit-redis');
-const redis = require('redis');
+const { errorCodes } = require('../config/constants');
 
-// Redis 클라이언트 생성
-const redisClient = redis.createClient({
-  url: process.env.REDIS_URL,
-  password: process.env.REDIS_PASSWORD
-});
-
-redisClient.on('error', (err) => console.error('Redis Client Error', err));
-
-// 기본 rate limiter
+// 기본 rate limiter 생성 함수
 const createRateLimiter = (options = {}) => {
   return rateLimit({
-    store: new RedisStore({
-      sendCommand: (...args) => redisClient.sendCommand(args),
-    }),
     windowMs: process.env.RATE_LIMIT_WINDOW_MS || 15 * 60 * 1000, // 15분
     max: process.env.RATE_LIMIT_MAX_REQUESTS || 100, // IP당 최대 요청 수
     message: {
