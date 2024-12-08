@@ -188,6 +188,62 @@ router.get('/popular',
  * @swagger
  * components:
  *   schemas:
+ *     Job:
+ *       type: object
+ *       properties:
+ *         _id:
+ *           type: string
+ *         title:
+ *           type: string
+ *           description: 채용공고 제목
+ *         description:
+ *           type: string
+ *           description: 채용공고 상세내용
+ *         companyId:
+ *           type: object
+ *           description: 회사 정보
+ *           properties:
+ *             _id:
+ *               type: string
+ *             companyName:
+ *               type: string
+ *             location:
+ *               type: object
+ *             industry:
+ *               type: string
+ *         requirements:
+ *           type: array
+ *           items:
+ *             type: string
+ *         salary:
+ *           type: object
+ *           properties:
+ *             min:
+ *               type: number
+ *             max:
+ *               type: number
+ *             currency:
+ *               type: string
+ *         jobType:
+ *           type: string
+ *           enum: [FULL_TIME, PART_TIME, CONTRACT, INTERN]
+ *         experienceLevel:
+ *           type: string
+ *           enum: [ENTRY, INTERMEDIATE, SENIOR, EXECUTIVE]
+ *         skills:
+ *           type: array
+ *           items:
+ *             type: string
+ *         status:
+ *           type: string
+ *           enum: [ACTIVE, CLOSED]
+ *         createdAt:
+ *           type: string
+ *           format: date-time
+ *         updatedAt:
+ *           type: string
+ *           format: date-time
+ *
  *     SearchHistory:
  *       type: object
  *       properties:
