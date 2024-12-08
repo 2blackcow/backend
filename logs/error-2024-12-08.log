@@ -1,3 +1,22 @@
 2024-12-08 14:24:41:2441 error: Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "Job"
 2024-12-08 14:24:42:2442 error: Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "Job"
 2024-12-08 14:24:42:2442 error: Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "Job"
+2024-12-08 15:46:40:4640 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:07:39:739 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:08:51:851 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:09:30:930 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:14:20:1420 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:20:23:2023 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:24:20:2420 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:24:59:2459 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:25:01:251 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:25:36:2536 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:32:17:3217 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:32:35:3235 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:32:38:3238 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:36:43:3643 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 18:07:13:713 error: Error occurred:
+2024-12-08 18:17:36:1736 error: Error occurred:
+2024-12-08 18:19:20:1920 error: Error occurred:
+2024-12-08 18:31:35:3135 error: Error occurred:
+2024-12-08 18:31:47:3147 error: Error occurred:

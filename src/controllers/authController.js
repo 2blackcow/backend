@@ -137,6 +137,54 @@ const authController = {
     } catch (error) {
       next(error);
     }
+  },
+
+  async changePassword(req, res, next) {
+    try {
+      const { currentPassword, newPassword } = req.body;
+
+      // 현재 사용자 찾기
+      const user = await User.findById(req.user.id);
+      if (!user) {
+        return res.status(404).json({
+          status: 'error',
+          code: 'NOT_FOUND',
+          message: '사용자를 찾을 수 없습니다.'
+        });
+      }
+
+      // 현재 비밀번호 확인
+      if (user.password !== encodeBase64(currentPassword)) {
+        return res.status(400).json({
+          status: 'error',
+          code: 'INVALID_PASSWORD',
+          message: '현재 비밀번호가 올바르지 않습니다.'
+        });
+      }
+
+      // 새 비밀번호로 업데이트
+      user.password = encodeBase64(newPassword);
+      await user.save();
+
+      res.json({
+        status: 'success',
+        message: '비밀번호가 성공적으로 변경되었습니다.'
+      });
+    } catch (error) {
+      next(error);
+    }
+  },
+
+  async logout(req, res, next) {
+    try {
+      // JWT는 서버에서 저장하지 않으므로, 클라이언트에서 토큰을 제거하도록 안내
+      res.json({
+        status: 'success',
+        message: '로그아웃 되었습니다.'
+      });
+    } catch (error) {
+      next(error);
+    }
   }
 };
 

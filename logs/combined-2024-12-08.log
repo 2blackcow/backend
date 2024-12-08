@@ -5,3 +5,62 @@
 2024-12-08 14:24:42:2442 error: Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "Job"
 2024-12-08 14:29:56:2956 info: Server is running on port 3000
 2024-12-08 14:29:56:2956 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 15:36:32:3632 info: Server is running on port 3000
+2024-12-08 15:36:32:3632 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 15:46:40:4640 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:07:19:719 info: Server is running on port 3000
+2024-12-08 16:07:19:719 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 16:07:39:739 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:08:51:851 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:09:30:930 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:14:20:1420 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:20:23:2023 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:24:20:2420 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:24:59:2459 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:25:01:251 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:25:36:2536 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:32:17:3217 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:32:35:3235 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:32:38:3238 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:35:13:3513 info: Server is running on port 3000
+2024-12-08 16:35:13:3513 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 16:36:43:3643 error: 요청하신 리소스를 찾을 수 없습니다.
+2024-12-08 16:39:48:3948 info: Server is running on port 3000
+2024-12-08 16:39:48:3948 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 16:51:33:5133 info: Server is running on port 3000
+2024-12-08 16:51:33:5133 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 16:52:02:522 info: Server is running on port 3000
+2024-12-08 16:52:02:522 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 16:57:31:5731 info: Server is running on port 3000
+2024-12-08 16:57:31:5731 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 16:57:55:5755 info: Server is running on port 3000
+2024-12-08 16:57:55:5755 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 16:59:01:591 info: Server is running on port 3000
+2024-12-08 16:59:01:591 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 17:03:35:335 info: Server is running on port 3000
+2024-12-08 17:03:35:335 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 17:06:45:645 info: Server is running on port 3000
+2024-12-08 17:06:45:645 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 17:18:15:1815 info: Server is running on port 3000
+2024-12-08 17:18:15:1815 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 17:31:41:3141 info: Server is running on port 3000
+2024-12-08 17:31:41:3141 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 17:55:03:553 info: Server is running on port 3000
+2024-12-08 17:55:03:553 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 18:05:42:542 info: Server is running on port 3000
+2024-12-08 18:05:42:542 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 18:07:13:713 error: Error occurred:
+2024-12-08 18:09:07:97 info: Server is running on port 3000
+2024-12-08 18:09:07:97 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 18:17:36:1736 error: Error occurred:
+2024-12-08 18:19:20:1920 error: Error occurred:
+2024-12-08 18:21:45:2145 info: Server is running on port 3000
+2024-12-08 18:21:45:2145 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 18:24:08:248 info: Server is running on port 3000
+2024-12-08 18:24:08:248 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 18:26:27:2627 info: Server is running on port 3000
+2024-12-08 18:26:27:2627 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 18:26:40:2640 info: Server is running on port 3000
+2024-12-08 18:26:40:2640 info: API Documentation available at http://localhost:3000/api-docs
+2024-12-08 18:31:35:3135 error: Error occurred:
+2024-12-08 18:31:47:3147 error: Error occurred:

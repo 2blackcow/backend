@@ -7,14 +7,21 @@ const applicationController = {
     try {
       const { jobId } = req.params;
       const userId = req.user.id;
+      const { coverLetter } = req.body;
 
-      // 이미 지원했는지 확인
-      const existingApplication = await Application.findOne({ jobId, userId });
-      if (existingApplication) {
+      // 디버깅을 위한 로그 추가
+      console.log('Application request:', {
+        jobId,
+        userId,
+        coverLetter: coverLetter ? coverLetter.length : 0
+      });
+
+      // 기본적인 입력값 검증
+      if (!jobId) {
         return res.status(400).json({
           status: 'error',
-          code: 'DUPLICATE_APPLICATION',
-          message: '이미 지원한 채용공고입니다.'
+          code: 'INVALID_REQUEST',
+          message: '채용공고 ID가 필요합니다.'
         });
       }
 
@@ -28,7 +35,7 @@ const applicationController = {
         });
       }
 
-      if (job.status === 'CLOSED' || (job.deadline && new Date(job.deadline) < new Date())) {
+      if (job.status === 'CLOSED') {
         return res.status(400).json({
           status: 'error',
           code: 'JOB_CLOSED',
@@ -36,11 +43,22 @@ const applicationController = {
         });
       }
 
+      // 이미 지원했는지 확인
+      const existingApplication = await Application.findOne({ jobId, userId });
+      if (existingApplication) {
+        return res.status(400).json({
+          status: 'error',
+          code: 'DUPLICATE_APPLICATION',
+          message: '이미 지원한 채용공고입니다.'
+        });
+      }
+
       // 지원서 생성
       const application = await Application.create({
         jobId,
         userId,
-        ...req.body
+        coverLetter,
+        status: 'PENDING'
       });
 
       res.status(201).json({
@@ -48,6 +66,7 @@ const applicationController = {
         data: { application }
       });
     } catch (error) {
+      console.error('Error in apply:', error);
       next(error);
     }
   },
@@ -103,35 +122,6 @@ const applicationController = {
       res.json({
         status: 'success',
         message: '지원이 취소되었습니다.'
-      });
-    } catch (error) {
-      next(error);
-    }
-  },
-
-  async getApplicationsByJob(req, res, next) {
-    try {
-      // 채용담당자만 접근 가능
-      const page = parseInt(req.query.page) || pagination.DEFAULT_PAGE;
-      const limit = parseInt(req.query.limit) || pagination.DEFAULT_LIMIT;
-      const skip = (page - 1) * limit;
-
-      const applications = await Application.find({ jobId: req.params.jobId })
-        .populate('userId', 'name email')
-        .sort({ createdAt: -1 })
-        .skip(skip)
-        .limit(limit);
-
-      const total = await Application.countDocuments({ jobId: req.params.jobId });
-
-      res.json({
-        status: 'success',
-        data: { applications },
-        pagination: {
-          currentPage: page,
-          totalPages: Math.ceil(total / limit),
-          totalItems: total
-        }
       });
     } catch (error) {
       next(error);

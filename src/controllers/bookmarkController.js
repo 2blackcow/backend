@@ -42,6 +42,115 @@ const bookmarkController = {
       next(error);
     }
   },
+  async searchBookmarks(req, res, next) {
+    try {
+      const page = parseInt(req.query.page) || pagination.DEFAULT_PAGE;
+      const limit = parseInt(req.query.limit) || pagination.DEFAULT_LIMIT;
+      const skip = (page - 1) * limit;
+      const { keyword, company, position } = req.query;
+  
+      // 검색 조건 구성
+      const searchQuery = {
+        userId: req.user.id
+      };
+  
+      if (keyword) {
+        searchQuery.$or = [
+          { 'note': { $regex: keyword, $options: 'i' } }
+        ];
+      }
+  
+      // 북마크 검색
+      const bookmarks = await Bookmark.find(searchQuery)
+        .populate({
+          path: 'jobId',
+          match: {
+            $or: [
+              { title: { $regex: position || '', $options: 'i' } },
+              { 'companyId.companyName': { $regex: company || '', $options: 'i' } }
+            ]
+          },
+          populate: {
+            path: 'companyId',
+            select: 'companyName location'
+          }
+        })
+        .sort({ createdAt: -1 })
+        .skip(skip)
+        .limit(limit);
+  
+      // null jobId 필터링 (삭제된 채용공고)
+      const validBookmarks = bookmarks.filter(bookmark => bookmark.jobId);
+      const total = validBookmarks.length;
+  
+      res.json({
+        status: 'success',
+        data: { bookmarks: validBookmarks },
+        pagination: {
+          currentPage: page,
+          totalPages: Math.ceil(total / limit),
+          totalItems: total
+        }
+      });
+    } catch (error) {
+      next(error);
+    }
+  },
+  
+  async filterBookmarks(req, res, next) {
+    try {
+      const page = parseInt(req.query.page) || pagination.DEFAULT_PAGE;
+      const limit = parseInt(req.query.limit) || pagination.DEFAULT_LIMIT;
+      const skip = (page - 1) * limit;
+      const { locations, experienceLevels, salaryRange, skills } = req.query;
+  
+      const filter = {
+        userId: req.user.id
+      };
+  
+      // 북마크 필터링
+      const bookmarks = await Bookmark.find(filter)
+        .populate({
+          path: 'jobId',
+          match: {
+            $and: [
+              locations ? { 'location.city': { $in: locations } } : {},
+              experienceLevels ? { experienceLevel: { $in: experienceLevels } } : {},
+              skills ? { skills: { $in: skills } } : {},
+              salaryRange ? {
+                $and: [
+                  salaryRange.min ? { 'salary.min': { $gte: parseInt(salaryRange.min) } } : {},
+                  salaryRange.max ? { 'salary.max': { $lte: parseInt(salaryRange.max) } } : {}
+                ]
+              } : {}
+            ]
+          },
+          populate: {
+            path: 'companyId',
+            select: 'companyName location'
+          }
+        })
+        .sort({ createdAt: -1 })
+        .skip(skip)
+        .limit(limit);
+  
+      // null jobId 필터링 (삭제된 채용공고)
+      const validBookmarks = bookmarks.filter(bookmark => bookmark.jobId);
+      const total = validBookmarks.length;
+  
+      res.json({
+        status: 'success',
+        data: { bookmarks: validBookmarks },
+        pagination: {
+          currentPage: page,
+          totalPages: Math.ceil(total / limit),
+          totalItems: total
+        }
+      });
+    } catch (error) {
+      next(error);
+    }
+  },
 
   async getMyBookmarks(req, res, next) {
     try {

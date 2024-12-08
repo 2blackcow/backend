@@ -35,8 +35,10 @@ connectDB();
 // 기본 미들웨어
 app.use(helmet());  // 보안 헤더 설정
 app.use(cors({
-  origin: process.env.CORS_ORIGIN,
-  credentials: true
+  origin: process.env.CORS_ORIGIN || 'http://localhost:3000',
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
 }));
 app.use(compression());  // 응답 압축
 app.use(express.json({ limit: '10mb' }));
@@ -50,6 +52,18 @@ if (process.env.NODE_ENV === 'development') {
 app.use(morganMiddleware);
 app.use(requestLogger);
 app.use(responseLogger);
+
+// 요청 로깅 미들웨어 추가
+app.use((req, res, next) => {
+  console.log('Incoming request:', {
+    method: req.method,
+    path: req.path,
+    params: req.params,
+    query: req.query,
+    body: req.body
+  });
+  next();
+});
 
 // Rate Limiting
 app.use(defaultLimiter);
@@ -77,9 +91,10 @@ if (process.env.CRAWLER_ENABLED === 'true') {
 
 // 404 처리
 app.use((req, res, next) => {
+  console.log('404 Error for path:', req.path); // 디버깅용 로그 추가
   const error = new errorHandler.AppError(
     'NOT_FOUND',
-    '요청하신 리소스를 찾을 수 없습니다.',
+    `요청하신 리소스를 찾을 수 없습니다. (${req.path})`,
     404
   );
   next(error);
@@ -87,10 +102,14 @@ app.use((req, res, next) => {
 
 // 글로벌 에러 핸들러
 app.use((err, req, res, next) => {
-  logger.error(err.message, {
+  logger.error('Error occurred:', {
+    message: err.message,
     stack: err.stack,
     path: req.path,
-    method: req.method
+    method: req.method,
+    body: req.body,
+    params: req.params,
+    query: req.query
   });
 
   // MongoDB 에러 처리
@@ -121,14 +140,10 @@ app.listen(PORT, () => {
 // 프로세스 에러 처리
 process.on('unhandledRejection', (err) => {
   logger.error('Unhandled Rejection:', err);
-  // 심각한 에러 발생 시 서버 종료
-  // process.exit(1);
 });
 
 process.on('uncaughtException', (err) => {
   logger.error('Uncaught Exception:', err);
-  // 심각한 에러 발생 시 서버 종료
-  // process.exit(1);
 });
 
 module.exports = app;

@@ -23,7 +23,7 @@ const applicationSchema = new mongoose.Schema({
   coverLetter: {
     type: String,
     required: true,
-    minlength: [200, '자기소개서는 최소 200자 이상이어야 합니다.']
+    minlength: [30, '자기소개서는 최소 30자 이상이어야 합니다.']
   },
   expectedSalary: {
     amount: Number,

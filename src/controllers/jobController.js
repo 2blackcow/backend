@@ -45,6 +45,106 @@ const jobController = {
       next(error);
     }
   },
+  // jobController에 추가할 함수들
+async getRelatedJobs(req, res, next) {
+    try {
+      const { id } = req.params;
+      const limit = parseInt(req.query.limit) || 5;
+  
+      const currentJob = await Job.findById(id);
+      if (!currentJob) {
+        return res.status(404).json({
+          status: 'error',
+          code: 'NOT_FOUND',
+          message: '채용공고를 찾을 수 없습니다.'
+        });
+      }
+  
+      const relatedJobs = await Job.find({
+        _id: { $ne: id },
+        status: 'ACTIVE',
+        $or: [
+          { skills: { $in: currentJob.skills } },
+          { 'location.city': currentJob.location.city },
+          { experienceLevel: currentJob.experienceLevel }
+        ]
+      })
+      .populate('companyId', 'companyName location industry')
+      .limit(limit);
+  
+      res.json({
+        status: 'success',
+        data: { relatedJobs }
+      });
+    } catch (error) {
+      next(error);
+    }
+  },
+  
+  async filterJobs(req, res, next) {
+    try {
+      const { locations, experienceLevels, salaryRange, skills } = req.query;
+      const page = parseInt(req.query.page) || pagination.DEFAULT_PAGE;
+      const limit = parseInt(req.query.limit) || pagination.DEFAULT_LIMIT;
+      const skip = (page - 1) * limit;
+  
+      const filter = { status: 'ACTIVE' };
+  
+      if (locations) filter['location.city'] = { $in: locations };
+      if (experienceLevels) filter.experienceLevel = { $in: experienceLevels };
+      if (skills) filter.skills = { $in: skills };
+      if (salaryRange) {
+        filter.salary = {};
+        if (salaryRange.min) filter.salary.$gte = parseInt(salaryRange.min);
+        if (salaryRange.max) filter.salary.$lte = parseInt(salaryRange.max);
+      }
+  
+      const jobs = await Job.find(filter)
+        .populate('companyId', 'companyName location industry')
+        .sort({ createdAt: -1 })
+        .skip(skip)
+        .limit(limit);
+  
+      const total = await Job.countDocuments(filter);
+  
+      res.json({
+        status: 'success',
+        data: { jobs },
+        pagination: {
+          currentPage: page,
+          totalPages: Math.ceil(total / limit),
+          totalItems: total
+        }
+      });
+    } catch (error) {
+      next(error);
+    }
+  },
+  
+  async increaseViews(req, res, next) {
+    try {
+      const job = await Job.findByIdAndUpdate(
+        req.params.id,
+        { $inc: { viewCount: 1 } },
+        { new: true }
+      );
+  
+      if (!job) {
+        return res.status(404).json({
+          status: 'error',
+          code: 'NOT_FOUND',
+          message: '채용공고를 찾을 수 없습니다.'
+        });
+      }
+  
+      res.json({
+        status: 'success',
+        data: { viewCount: job.viewCount }
+      });
+    } catch (error) {
+      next(error);
+    }
+  },
 
   async searchJobs(req, res, next) {
     try {
@@ -168,7 +268,135 @@ const jobController = {
     } catch (error) {
       next(error);
     }
+  },
+  async getJobsByCompany(req, res, next) {
+    try {
+      const { companyId } = req.params;
+      const page = parseInt(req.query.page) || pagination.DEFAULT_PAGE;
+      const limit = parseInt(req.query.limit) || pagination.DEFAULT_LIMIT;
+      const skip = (page - 1) * limit;
+
+      const jobs = await Job.find({ 
+        companyId,
+        status: 'ACTIVE'
+      })
+        .populate('companyId', 'companyName location industry')
+        .sort({ createdAt: -1 })
+        .skip(skip)
+        .limit(limit);
+
+      const total = await Job.countDocuments({ companyId, status: 'ACTIVE' });
+
+      res.json({
+        status: 'success',
+        data: { jobs },
+        pagination: {
+          currentPage: page,
+          totalPages: Math.ceil(total / limit),
+          totalItems: total
+        }
+      });
+    } catch (error) {
+      next(error);
+    }
+  },
+
+  async getSimilarJobs(req, res, next) {
+    try {
+      const { id } = req.params;
+      const job = await Job.findById(id);
+
+      if (!job) {
+        return res.status(404).json({
+          status: 'error',
+          code: 'NOT_FOUND',
+          message: '채용공고를 찾을 수 없습니다.'
+        });
+      }
+
+      const similarJobs = await Job.find({
+        _id: { $ne: job._id },
+        status: 'ACTIVE',
+        $or: [
+          { skills: { $in: job.skills } },
+          { experienceLevel: job.experienceLevel },
+          { 'location.city': job.location.city }
+        ]
+      })
+        .populate('companyId', 'companyName location')
+        .limit(5);
+
+      res.json({
+        status: 'success',
+        data: { similarJobs }
+      });
+    } catch (error) {
+      next(error);
+    }
+  },
+
+  async getRecentJobs(req, res, next) {
+    try {
+      const jobs = await Job.find({ status: 'ACTIVE' })
+        .populate('companyId', 'companyName location industry')
+        .sort({ createdAt: -1 })
+        .limit(10);
+
+      res.json({
+        status: 'success',
+        data: { jobs }
+      });
+    } catch (error) {
+      next(error);
+    }
+  },
+
+  async getFeaturedJobs(req, res, next) {
+    try {
+      const jobs = await Job.find({ 
+        status: 'ACTIVE',
+        isFeatured: true 
+      })
+        .populate('companyId', 'companyName location industry')
+        .sort({ createdAt: -1 })
+        .limit(5);
+
+      res.json({
+        status: 'success',
+        data: { jobs }
+      });
+    } catch (error) {
+      next(error);
+    }
+  },
+
+  async toggleJobStatus(req, res, next) {
+    try {
+      const job = await Job.findOne({ 
+        _id: req.params.id,
+        companyId: req.user.companyId
+      });
+
+      if (!job) {
+        return res.status(404).json({
+          status: 'error',
+          code: 'NOT_FOUND',
+          message: '채용공고를 찾을 수 없거나 권한이 없습니다.'
+        });
+      }
+
+      job.status = job.status === 'ACTIVE' ? 'CLOSED' : 'ACTIVE';
+      await job.save();
+
+      res.json({
+        status: 'success',
+        data: { job }
+      });
+    } catch (error) {
+      next(error);
+    }
   }
+
 };
 
 module.exports = jobController;

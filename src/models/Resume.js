@@ -56,7 +56,7 @@ const resumeSchema = new mongoose.Schema({
       summary: {
         type: String,
         required: true,
-        minlength: [100, '자기소개는 최소 100자 이상이어야 합니다.']
+        
       },
       contact: {
         email: { type: String, required: true },
