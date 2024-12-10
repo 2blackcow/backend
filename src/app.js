@@ -65,7 +65,7 @@ app.use((req, res, next) => {
   next();
 });
 
-// Rate Limiting
+// Rate Limit
 app.use(defaultLimiter);
 
 // API 라우트

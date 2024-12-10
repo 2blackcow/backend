@@ -1,6 +1,10 @@
 const winston = require('winston');
 require('winston-daily-rotate-file');
 const path = require('path');
+require('dotenv').config({ path: path.join(__dirname, '../../.env') });
+
+// 로그 디렉토리 설정
+const logDir = path.join(__dirname, '../../logs');
 
 // 로그 레벨 정의
 const levels = {
@@ -30,25 +34,31 @@ const format = winston.format.combine(
   )
 );
 
+// logs 디렉토리 생성
+const fs = require('fs');
+if (!fs.existsSync(logDir)) {
+  fs.mkdirSync(logDir, { recursive: true });
+}
+
 // 로그 파일 설정
 const transports = [
   // 에러 로그
   new winston.transports.DailyRotateFile({
-    filename: path.join(process.env.LOG_DIR, 'error-%DATE%.log'),
+    filename: path.join(logDir, 'error-%DATE%.log'),
     datePattern: 'YYYY-MM-DD',
     zippedArchive: true,
-    maxSize: process.env.LOG_MAX_SIZE,
-    maxFiles: process.env.LOG_MAX_FILES,
+    maxSize: '20m',
+    maxFiles: '14d',
     level: 'error'
   }),
 
   // 전체 로그
   new winston.transports.DailyRotateFile({
-    filename: path.join(process.env.LOG_DIR, 'combined-%DATE%.log'),
+    filename: path.join(logDir, 'combined-%DATE%.log'),
     datePattern: 'YYYY-MM-DD',
     zippedArchive: true,
-    maxSize: process.env.LOG_MAX_SIZE,
-    maxFiles: process.env.LOG_MAX_FILES
+    maxSize: '20m',
+    maxFiles: '14d'
   })
 ];
 

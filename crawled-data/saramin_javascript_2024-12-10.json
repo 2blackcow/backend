@@ -1,0 +1,5216 @@
+{
+  "metadata": {
+    "keyword": "javascript",
+    "totalJobs": 100,
+    "crawledAt": "2024-12-10T11:49:44.255Z",
+    "stats": {
+      "totalProcessed": 100,
+      "newJobs": 0,
+      "updatedJobs": 100,
+      "errorCount": 0
+    },
+    "errors": []
+  },
+  "jobs": [
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a2402f2270d08c2ef49",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49537254&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:44.284Z",
+      "deadline": "2025-01-10T11:46:44.284Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[패스오더] 웹 프론트엔드 개발자 (JavaScript, React) (병역특례/산업기능요원/보충역/전직) (신입~10년 이하)",
+      "updatedAt": "2024-12-10T11:46:44.284Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828f302f2270d08c2ee10",
+        "companyName": "(주)페이타랩",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:41:39.131Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, React, CSS 외                    등록일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:44.276Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a2502f2270d08c2ef4b",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49388593&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:45.959Z",
+      "deadline": "2025-01-10T11:46:45.959Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "INTERN",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "아톰릭스랩 인턴 개발자 모집 (Javascript, Svelte)",
+      "updatedAt": "2024-12-10T11:46:45.959Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a2502f2270d08c2ef4a",
+        "companyName": "(주)아톰릭스랩",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:45.951Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, React, Angular 외                    수정일 24/11/12",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:45.951Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a2702f2270d08c2ef4c",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49537255&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:47.579Z",
+      "deadline": "2025-01-10T11:46:47.578Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[패스오더] 웹 프론트엔드 개발자 (JavaScript, React) (병역특례/산업기능요원/보충역/전직) (경력 11~20년 이하)",
+      "updatedAt": "2024-12-10T11:46:47.579Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828f302f2270d08c2ee10",
+        "companyName": "(주)페이타랩",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:41:39.131Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, React, CSS 외                    등록일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:47.571Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강서구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a2902f2270d08c2ef4e",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49435515&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:49.131Z",
+      "deadline": "2025-01-10T11:46:49.131Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "JavaScript Fullstack 엔지니어 채용",
+      "updatedAt": "2024-12-10T11:46:49.131Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강서구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a2902f2270d08c2ef4d",
+        "companyName": "(주)앱톤",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:49.123Z",
+        "culture": [],
+        "images": [],
+        "industry": "프론트엔드, React, GraphQL, MongoDB, Node.js 외                    등록일 24/11/20",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:49.123Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 수정구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a2a02f2270d08c2ef50",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49388744&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:50.917Z",
+      "deadline": "2025-01-10T11:46:50.917Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[판교] Fullstack Engineer (PHP, JavaScript)",
+      "updatedAt": "2024-12-10T11:46:50.917Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 수정구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a2a02f2270d08c2ef4f",
+        "companyName": "(주)지란지교소프트",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:50.915Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, CSS, 솔루션 외                    수정일 24/11/13",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:50.915Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기전체",
+        "city": "경기전체",
+        "country": "KR"
+      },
+      "_id": "67582a2c02f2270d08c2ef52",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49374526&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:52.540Z",
+      "deadline": "2025-01-10T11:46:52.539Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "백엔드 개발자 (JavaScript) 경력 (3년 이상~ 4년이하)",
+      "updatedAt": "2024-12-10T11:46:52.540Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기전체",
+          "city": "경기전체",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a2c02f2270d08c2ef51",
+        "companyName": "티엔에이치(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:52.537Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, 백엔드/서버개발, TypeScript 외                    등록일 24/11/11",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:52.537Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강서구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a2e02f2270d08c2ef54",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49426971&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:54.280Z",
+      "deadline": "2025-01-10T11:46:54.280Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "풀스택 Typescript 개발자 (자동화 장비 제어, javascript) 대리급 채용",
+      "updatedAt": "2024-12-10T11:46:54.280Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강서구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a2e02f2270d08c2ef53",
+        "companyName": "(주)랩투마켓",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:54.272Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, 백엔드/서버개발, TypeScript 외                    등록일 24/11/19",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:54.272Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강서구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a2f02f2270d08c2ef55",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49426980&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:55.952Z",
+      "deadline": "2025-01-10T11:46:55.952Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "풀스택 Typescript 개발자 (자동화 장비 제어, javascript) 과장급 채용",
+      "updatedAt": "2024-12-10T11:46:55.952Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강서구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a2e02f2270d08c2ef53",
+        "companyName": "(주)랩투마켓",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:54.272Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, 백엔드/서버개발, TypeScript 외                    등록일 24/11/19",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:55.943Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a3102f2270d08c2ef57",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49251029&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:57.712Z",
+      "deadline": "2025-01-10T11:46:57.712Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "MES (JAVA / Javascript) 개발자 모집",
+      "updatedAt": "2024-12-10T11:46:57.712Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a3102f2270d08c2ef56",
+        "companyName": "다겸(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:57.709Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, CSS, 백엔드/서버개발, Spring 외                    수정일 24/11/22",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:57.709Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  마포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a3302f2270d08c2ef59",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49346814&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:59.310Z",
+      "deadline": "2025-01-10T11:46:59.310Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "(마포부근)xx증권 HTS 클라이언트 맵화면 개발(Javascript)",
+      "updatedAt": "2024-12-10T11:46:59.310Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  마포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a3302f2270d08c2ef58",
+        "companyName": "마이스터정보기술(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:59.308Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 클라이언트, 소프트웨어개발                    수정일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:59.308Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  영등포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a3502f2270d08c2ef5b",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49382914&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:01.113Z",
+      "deadline": "2025-01-10T11:47:01.113Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[경력] javascript UI 솔루션 개발자 모집공고",
+      "updatedAt": "2024-12-10T11:47:01.113Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  영등포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a3502f2270d08c2ef5a",
+        "companyName": "(주)소프트인",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:01.105Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 웹개발, React, CSS, HTML 외                    수정일 24/11/13",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:01.105Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  마포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a3602f2270d08c2ef5c",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49411081&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:02.749Z",
+      "deadline": "2025-01-10T11:47:02.749Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "(마포부근)증권 간편모드 개발(JavaScript)",
+      "updatedAt": "2024-12-10T11:47:02.749Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  마포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a3302f2270d08c2ef58",
+        "companyName": "마이스터정보기술(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:59.308Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, HTML, CSS3, Git, 소프트웨어개발                    수정일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:02.746Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a3802f2270d08c2ef5e",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49413712&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:04.421Z",
+      "deadline": "2025-01-10T11:47:04.420Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[용산] 금융, 보험, java, javascript, 자바스크립트, 자바",
+      "updatedAt": "2024-12-10T11:47:04.421Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a3802f2270d08c2ef5d",
+        "companyName": "㈜이컴라인",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:04.418Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, 백엔드/서버개발 외                    수정일 24/11/17",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:04.418Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a3a02f2270d08c2ef60",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49212705&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:06.194Z",
+      "deadline": "2025-01-10T11:47:06.194Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Front-end 개발자 채용 (Javascript, React)",
+      "updatedAt": "2024-12-10T11:47:06.194Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a3a02f2270d08c2ef5f",
+        "companyName": "씨드로닉스(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:06.191Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, React, ReactJS, Redux 외                    수정일 24/10/28",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:06.191Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "인천  남동구",
+        "city": "인천",
+        "country": "KR"
+      },
+      "_id": "67582a3c02f2270d08c2ef62",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49521956&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:08.003Z",
+      "deadline": "2025-01-10T11:47:08.003Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "자바스크립트 FullStack 연구자 채용",
+      "updatedAt": "2024-12-10T11:47:08.003Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "인천  남동구",
+          "city": "인천",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a3b02f2270d08c2ef61",
+        "companyName": "가천대학교산학협력단",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:07.998Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 웹개발, React, HTML, TypeScript 외                    수정일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:07.998Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "세종특별자치시",
+        "city": "세종특별자치시",
+        "country": "KR"
+      },
+      "_id": "67582a3d02f2270d08c2ef64",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49455283&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:09.670Z",
+      "deadline": "2025-01-10T11:47:09.670Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "세종 웹디자이너(Java Script, HTML, CSS가능자) 경력자 채용",
+      "updatedAt": "2024-12-10T11:47:09.670Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "세종특별자치시",
+          "city": "세종특별자치시",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a3d02f2270d08c2ef63",
+        "companyName": "(주)위니드소프트",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:09.667Z",
+        "culture": [],
+        "images": [],
+        "industry": "Java, CSS, HTML, 웹디자인, UI/UX디자인 외                    수정일 24/11/22",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:09.667Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강서구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a3f02f2270d08c2ef65",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=48464887&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:11.463Z",
+      "deadline": "2025-01-10T11:47:11.463Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "㈜위즈코리아/㈜위즈COK '24년 하반기 신입/경력 사원 모집",
+      "updatedAt": "2024-12-10T11:47:11.463Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강서구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1502f2270d08c2ef3b",
+        "companyName": "(주)위즈코리아",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:29.878Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, CSS 외                    수정일 24/11/20",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:11.460Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a4102f2270d08c2ef66",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49488843&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:13.183Z",
+      "deadline": "2025-01-10T11:47:13.183Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "다우기술 경력사원 대규모 인재영입",
+      "updatedAt": "2024-12-10T11:47:13.183Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1702f2270d08c2ef3d",
+        "companyName": "(주)다우기술",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:31.657Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    수정일 24/11/28",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:13.180Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "전국",
+        "city": "전국",
+        "country": "KR"
+      },
+      "_id": "67582a4202f2270d08c2ef67",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49523319&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:14.874Z",
+      "deadline": "2025-01-10T11:47:14.874Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2025년 NH농협캐피탈 신규직원[신입·경력] 채용",
+      "updatedAt": "2024-12-10T11:47:14.874Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "전국",
+          "city": "전국",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1902f2270d08c2ef3f",
+        "companyName": "엔에이치농협캐피탈(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:33.372Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, 백엔드/서버개발, 데이터분석가 외                    수정일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:14.871Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a4402f2270d08c2ef68",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49524700&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=70b5a2e5-5ff2-4899-8a70-cf8bb8a92b38",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:16.593Z",
+      "deadline": "2025-01-10T11:47:16.593Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "INTERN",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 12월 캐논코리아 신입사원(채용연계형인턴)모집",
+      "updatedAt": "2024-12-10T11:47:16.593Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1102f2270d08c2ef37",
+        "companyName": "캐논코리아 주식회사",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:25.614Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, CSS 외                    수정일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:16.589Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  평택시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a4802f2270d08c2ef6a",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49526962&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:20.708Z",
+      "deadline": "2025-01-10T11:47:20.708Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[HL만도] 2024년 12월 경력 수시채용(판교, 평택, 미국법인)",
+      "updatedAt": "2024-12-10T11:47:20.708Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  평택시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a4802f2270d08c2ef69",
+        "companyName": "에이치엘만도(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:20.705Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 백엔드/서버개발, 유지보수, QA/테스터 외                    수정일 24/12/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:20.705Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울전체",
+        "city": "서울전체",
+        "country": "KR"
+      },
+      "_id": "67582a4a02f2270d08c2ef6b",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49525317&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:22.398Z",
+      "deadline": "2025-01-10T11:47:22.398Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 메리츠화재 하반기 각 부문별 신입/경력 채용",
+      "updatedAt": "2024-12-10T11:47:22.398Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울전체",
+          "city": "서울전체",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1b02f2270d08c2ef41",
+        "companyName": "메리츠화재해상보험(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:35.046Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, HTML, Spring, SE(시스템엔지니어) 외                    수정일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:22.395Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a4c02f2270d08c2ef6c",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49507897&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:24.217Z",
+      "deadline": "2025-01-10T11:47:24.217Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 신입 및 경력 채용",
+      "updatedAt": "2024-12-10T11:47:24.217Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1c02f2270d08c2ef43",
+        "companyName": "(주)디알텍",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:36.836Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, HTML, 유지보수, 퍼블리셔, SE(시스템엔지니어) 외                    수정일 24/12/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:24.215Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "충북  보은군",
+        "city": "충북",
+        "country": "KR"
+      },
+      "_id": "67582a4e02f2270d08c2ef6d",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49381850&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:26.812Z",
+      "deadline": "2025-01-10T11:47:26.812Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "㈜우진플라임 부문별 인재채용",
+      "updatedAt": "2024-12-10T11:47:26.812Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "충북  보은군",
+          "city": "충북",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1402f2270d08c2ef39",
+        "companyName": "(주)우진플라임",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:28.133Z",
+        "culture": [],
+        "images": [],
+        "industry": "Java, 웹개발, React, CSS, 백엔드/서버개발 외                    수정일 24/11/22",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:26.809Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  서초구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a5002f2270d08c2ef6e",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49534588&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:28.527Z",
+      "deadline": "2025-01-10T11:47:28.527Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "㈜영신디엔씨 각 부문 신입 및 경력 채용",
+      "updatedAt": "2024-12-10T11:47:28.527Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  서초구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1e02f2270d08c2ef45",
+        "companyName": "(주)영신디엔씨",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:38.509Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, CSS, HTML, H/W 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:28.524Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  중구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a5202f2270d08c2ef70",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49485381&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:30.255Z",
+      "deadline": "2025-01-10T11:47:30.255Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "일반관리/IT개발 각 부문 채용",
+      "updatedAt": "2024-12-10T11:47:30.255Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  중구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a5202f2270d08c2ef6f",
+        "companyName": "한국정보통신(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:30.252Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    수정일 24/11/28",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:30.252Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a5402f2270d08c2ef72",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49529556&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:32.011Z",
+      "deadline": "2025-01-10T11:47:32.011Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "각 부문 신입/경력 채용공고",
+      "updatedAt": "2024-12-10T11:47:32.011Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a5402f2270d08c2ef71",
+        "companyName": "(주)케이엘넷",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:32.003Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, HTML 외                    수정일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:32.003Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  영등포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a5502f2270d08c2ef74",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49175033&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:33.777Z",
+      "deadline": "2025-01-10T11:47:33.776Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "㈜포니링크 IT 사업부, 자율주행사업부, 해외패션사업부, 경영기획본부 등 각 본부 채용",
+      "updatedAt": "2024-12-10T11:47:33.777Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  영등포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a5502f2270d08c2ef73",
+        "companyName": "(주)포니링크",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:33.767Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    수정일 24/11/26",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:33.767Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  송파구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a5702f2270d08c2ef76",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49536163&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:35.508Z",
+      "deadline": "2025-01-10T11:47:35.508Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 하반기 정시 채용(신입/경력)",
+      "updatedAt": "2024-12-10T11:47:35.508Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  송파구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a5702f2270d08c2ef75",
+        "companyName": "메이저월드(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:35.496Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    수정일 24/12/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:35.496Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강서구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a5902f2270d08c2ef77",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49536432&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:37.208Z",
+      "deadline": "2025-01-10T11:47:37.208Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "㈜위즈코리아/㈜위즈COK SE(시스템 엔지니어), PM 채용",
+      "updatedAt": "2024-12-10T11:47:37.208Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강서구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1502f2270d08c2ef3b",
+        "companyName": "(주)위즈코리아",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:29.878Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, CSS 외                    수정일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:37.205Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  마포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a5a02f2270d08c2ef79",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49475036&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:38.947Z",
+      "deadline": "2025-01-10T11:47:38.946Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024 콘텐트리중앙 IT부문 수시채용",
+      "updatedAt": "2024-12-10T11:47:38.947Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  마포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a5a02f2270d08c2ef78",
+        "companyName": "(주)콘텐트리중앙",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:38.943Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    수정일 24/11/26",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:38.943Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  서초구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a5c02f2270d08c2ef7b",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49543337&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:40.630Z",
+      "deadline": "2025-01-10T11:47:40.630Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[강남본사] 각 부문 신입/경력직 채용",
+      "updatedAt": "2024-12-10T11:47:40.630Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  서초구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a5c02f2270d08c2ef7a",
+        "companyName": "(주)성원아이북랜드",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:40.620Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, CSS 외                    수정일 24/12/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:40.620Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  송파구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a5e02f2270d08c2ef7d",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=48494926&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:42.351Z",
+      "deadline": "2025-01-10T11:47:42.351Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[코스닥 상장사] 이에이트 신입 및 경력 채용",
+      "updatedAt": "2024-12-10T11:47:42.351Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  송파구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a5e02f2270d08c2ef7c",
+        "companyName": "이에이트(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:42.342Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, React, CSS 외                    수정일 24/11/25",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:42.342Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  수원시 권선구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a6002f2270d08c2ef7f",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49395665&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:44.089Z",
+      "deadline": "2025-01-10T11:47:44.089Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "모션컨트롤&시스템 글로벌제조기업 인재모집(수원, 창원)",
+      "updatedAt": "2024-12-10T11:47:44.089Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  수원시 권선구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a6002f2270d08c2ef7e",
+        "companyName": "하이윈코퍼레이션(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:44.085Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, S/W, C#, HTML5 외                    수정일 24/11/22",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:44.085Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a6102f2270d08c2ef81",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49540716&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:45.707Z",
+      "deadline": "2025-01-10T11:47:45.707Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "알디에스(오뚜기IT자회사) IT (웹)운영개발 사원모집",
+      "updatedAt": "2024-12-10T11:47:45.707Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a6102f2270d08c2ef80",
+        "companyName": "알디에스(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:45.704Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    등록일 24/12/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:45.704Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  부천시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a6302f2270d08c2ef83",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49424016&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:47.481Z",
+      "deadline": "2025-01-10T11:47:47.481Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 하반기 상시채용 모집",
+      "updatedAt": "2024-12-10T11:47:47.481Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  부천시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a6302f2270d08c2ef82",
+        "companyName": "(주)티엑스알로보틱스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:47.472Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, React, CSS 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:47.472Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강서구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a6502f2270d08c2ef85",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49471265&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:49.177Z",
+      "deadline": "2025-01-10T11:47:49.177Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "INTERN",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[미래내일 일경험] 더치트 개발팀/디자인 직무 인턴 모집",
+      "updatedAt": "2024-12-10T11:47:49.177Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강서구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a6502f2270d08c2ef84",
+        "companyName": "(주)에스테이트",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:49.174Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, CSS 외                    수정일 24/11/26",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:49.174Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  영등포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a6702f2270d08c2ef87",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49394069&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:51.047Z",
+      "deadline": "2025-03-10T11:47:51.047Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[NARA SPACE] 각 부문별 직원모집",
+      "updatedAt": "2024-12-10T11:47:51.047Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  영등포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a6702f2270d08c2ef86",
+        "companyName": "(주)나라스페이스테크놀로지",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:51.045Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, React, CSS 외                    수정일 24/11/26",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:51.045Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  구로구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a6802f2270d08c2ef89",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49552352&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:52.736Z",
+      "deadline": "2025-01-10T11:47:52.736Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 웹 개발 부문 공고",
+      "updatedAt": "2024-12-10T11:47:52.736Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  구로구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a6802f2270d08c2ef88",
+        "companyName": "(주)티오이십일콤즈",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:52.733Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:52.733Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "전북  익산시",
+        "city": "전북",
+        "country": "KR"
+      },
+      "_id": "67582a6a02f2270d08c2ef8b",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49331516&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=8575ae67-994a-4654-a9e7-8aaff6ca03c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:54.389Z",
+      "deadline": "2025-01-10T11:47:54.389Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "한국특수가스㈜ 부문별 신입 및 경력 채용",
+      "updatedAt": "2024-12-10T11:47:54.389Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "전북  익산시",
+          "city": "전북",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a6a02f2270d08c2ef8a",
+        "companyName": "한국특수가스(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:54.387Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, CSS, HTML 외                    수정일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:54.387Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  남양주시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a6e02f2270d08c2ef8d",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49464757&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:47:58.568Z",
+      "deadline": "2025-01-10T11:47:58.567Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "각부문 신입/경력 사원 공개채용",
+      "updatedAt": "2024-12-10T11:47:58.568Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  남양주시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a6e02f2270d08c2ef8c",
+        "companyName": "(주)일신비츠온",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:47:58.563Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, Spring, ERP, AWS 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:47:58.563Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울전체",
+        "city": "서울전체",
+        "country": "KR"
+      },
+      "_id": "67582a7002f2270d08c2ef8f",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49551172&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:00.168Z",
+      "deadline": "2025-01-10T11:48:00.168Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "CM PJT현장/바이오에너지PJT현장 채용",
+      "updatedAt": "2024-12-10T11:48:00.168Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울전체",
+          "city": "서울전체",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a7002f2270d08c2ef8e",
+        "companyName": "(주)희림종합건축사사무소",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:00.165Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 웹개발, 웹마스터, 퍼블리셔, 영상처리 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:00.165Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  구로구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a7102f2270d08c2ef91",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49552983&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:01.810Z",
+      "deadline": "2025-01-10T11:48:01.809Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "기술 엔지니어 채용[솔루션 구축/교육/점검]",
+      "updatedAt": "2024-12-10T11:48:01.810Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  구로구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a7102f2270d08c2ef90",
+        "companyName": "(주)한싹",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:01.807Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:01.807Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a7302f2270d08c2ef93",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49518346&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:03.635Z",
+      "deadline": "2025-01-10T11:48:03.635Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "도미노피자 각 부문(자회사 포함) 공개 채용",
+      "updatedAt": "2024-12-10T11:48:03.635Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a7302f2270d08c2ef92",
+        "companyName": "청오디피케이(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:03.633Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    수정일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:03.633Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경남  김해시",
+        "city": "경남",
+        "country": "KR"
+      },
+      "_id": "67582a7502f2270d08c2ef95",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49516721&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:05.319Z",
+      "deadline": "2025-01-10T11:48:05.319Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "동아화성(주) 2024년 하반기 신입 및 경력직원 모집",
+      "updatedAt": "2024-12-10T11:48:05.319Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경남  김해시",
+          "city": "경남",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a7502f2270d08c2ef94",
+        "companyName": "동아화성(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:05.311Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, ASP.NET, MSSQL, 총무 외                    수정일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:05.311Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a7702f2270d08c2ef97",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49524234&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:07.025Z",
+      "deadline": "2025-01-10T11:48:07.025Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "(삼성SDS분사社) 비젠트로㈜ 하반기 채용",
+      "updatedAt": "2024-12-10T11:48:07.025Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a7702f2270d08c2ef96",
+        "companyName": "비젠트로(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:07.018Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, React, CSS 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:07.018Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a7802f2270d08c2ef99",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=48917246&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:08.772Z",
+      "deadline": "2025-01-10T11:48:08.772Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[사업확장] 각 부문 신규 채용",
+      "updatedAt": "2024-12-10T11:48:08.772Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a7802f2270d08c2ef98",
+        "companyName": "(주)마더케이",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:08.769Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, 백엔드/서버개발 외                    수정일 24/11/29",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:08.769Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "부산  강서구",
+        "city": "부산",
+        "country": "KR"
+      },
+      "_id": "67582a7a02f2270d08c2ef9b",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49519832&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:10.489Z",
+      "deadline": "2025-01-10T11:48:10.489Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2025년도 상반기 신입직원 채용공고",
+      "updatedAt": "2024-12-10T11:48:10.489Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "부산  강서구",
+          "city": "부산",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a7a02f2270d08c2ef9a",
+        "companyName": "(주)비엔케이시스템",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:10.477Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, CSS 외                    수정일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:10.477Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  영등포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a7c02f2270d08c2ef9c",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49553992&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:12.179Z",
+      "deadline": "2025-01-10T11:48:12.179Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "금융시장의 미래를 설계하는 데이터로드 신입/경력 개발자 모집",
+      "updatedAt": "2024-12-10T11:48:12.179Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  영등포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828bb02f2270d08c2edd1",
+        "companyName": "(주)데이터로드",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:40:43.963Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, 앱개발, DBMS 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:12.169Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "충남  천안시 서북구",
+        "city": "충남",
+        "country": "KR"
+      },
+      "_id": "67582a7d02f2270d08c2ef9e",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49562355&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:13.934Z",
+      "deadline": "2025-01-10T11:48:13.934Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "제닉스(주) 각 부문별 채용",
+      "updatedAt": "2024-12-10T11:48:13.934Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "충남  천안시 서북구",
+          "city": "충남",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a7d02f2270d08c2ef9d",
+        "companyName": "제닉스(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:13.932Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 백엔드/서버개발, 기술지원, 정보보안 외                    수정일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:13.932Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "부산  남구",
+        "city": "부산",
+        "country": "KR"
+      },
+      "_id": "67582a7f02f2270d08c2efa0",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49422651&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:15.597Z",
+      "deadline": "2025-01-10T11:48:15.597Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "일반행정, 전산 경성대학교의 미래를 함께 할 적극적이고 능력있는 인재를 찾습니다.",
+      "updatedAt": "2024-12-10T11:48:15.597Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "부산  남구",
+          "city": "부산",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a7f02f2270d08c2ef9f",
+        "companyName": "경성대학교",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:15.593Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, 백엔드/서버개발 외                    수정일 24/11/20",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:15.593Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a8102f2270d08c2efa2",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49525316&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:17.297Z",
+      "deadline": "2025-01-10T11:48:17.296Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "㈜푸드테크 하반기 신입/경력 전부문 채용",
+      "updatedAt": "2024-12-10T11:48:17.297Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a8102f2270d08c2efa1",
+        "companyName": "(주)푸드테크",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:17.284Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, React, CSS 외                    수정일 24/12/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:17.284Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  영등포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a8302f2270d08c2efa3",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49550099&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:19.024Z",
+      "deadline": "2025-01-10T11:48:19.024Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[면접비지급][(주)이에스티소프트] IT 분야별 신입/경력 채용",
+      "updatedAt": "2024-12-10T11:48:19.024Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  영등포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828e202f2270d08c2edfc",
+        "companyName": "(주)이에스티소프트",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:41:22.841Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, HTML 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:19.015Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  서초구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a8402f2270d08c2efa5",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49106274&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:20.742Z",
+      "deadline": "2025-03-10T11:48:20.742Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 해커스 교육그룹 [신입/경력] 각 부문별 채용공고",
+      "updatedAt": "2024-12-10T11:48:20.742Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  서초구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a8402f2270d08c2efa4",
+        "companyName": "해커스교육그룹",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:20.739Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, HTML 외                    수정일 24/10/01",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:20.739Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  마포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a8602f2270d08c2efa7",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=46521833&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:22.519Z",
+      "deadline": "2025-01-10T11:48:22.518Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "입찰분석연구원 외 각 부문별 신입 및 경력사원 모집",
+      "updatedAt": "2024-12-10T11:48:22.519Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  마포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a8602f2270d08c2efa6",
+        "companyName": "(주)세종분석연구원",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:22.510Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, HTML 외                    수정일 24/11/29",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:22.510Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a8802f2270d08c2efa8",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49552310&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:24.138Z",
+      "deadline": "2025-01-10T11:48:24.138Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[링커리어] 백엔드 개발자 신입",
+      "updatedAt": "2024-12-10T11:48:24.138Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828bd02f2270d08c2edd3",
+        "companyName": "주식회사 링커리어",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:40:45.646Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, 백엔드/서버개발, TypeScript 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:24.130Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  의왕시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a8902f2270d08c2efaa",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49554564&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:25.801Z",
+      "deadline": "2025-01-10T11:48:25.801Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[(주)농협정보시스템] 분야별 계약직 채용",
+      "updatedAt": "2024-12-10T11:48:25.801Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  의왕시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a8902f2270d08c2efa9",
+        "companyName": "(주)농협정보시스템",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:25.793Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 백엔드/서버개발, 데이터엔지니어, 유지보수 외                    수정일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:25.793Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a8b02f2270d08c2efac",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49521026&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:27.535Z",
+      "deadline": "2025-01-10T11:48:27.535Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "고운세상코스메틱 (닥터지) 전직군 신입/경력 채용",
+      "updatedAt": "2024-12-10T11:48:27.535Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a8b02f2270d08c2efab",
+        "companyName": "(주)고운세상코스메틱",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:27.532Z",
+        "culture": [],
+        "images": [],
+        "industry": "영업관리, 영업지원, 영업직, 판매직, 영업마케팅 외                    수정일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:27.532Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a8d02f2270d08c2efae",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49544216&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:29.177Z",
+      "deadline": "2025-01-10T11:48:29.176Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[국내TOP7로펌/법무법인YK] 강남본사 공개채용(비대면 상담/추심/경영지원/기획)",
+      "updatedAt": "2024-12-10T11:48:29.177Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a8d02f2270d08c2efad",
+        "companyName": "법무법인와이케이",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:29.159Z",
+        "culture": [],
+        "images": [],
+        "industry": "전산회계, 회계사, 관리회계, 기업회계, 세무회계 외                    수정일 24/12/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:29.159Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  서초구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a8e02f2270d08c2efb0",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49444384&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=c6f55264-20d5-40f7-8bb6-fc2becb00f24",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:30.828Z",
+      "deadline": "2025-01-10T11:48:30.828Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[kt ds] 2024년 각 부문별 경력사원 상시채용",
+      "updatedAt": "2024-12-10T11:48:30.828Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  서초구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a8e02f2270d08c2efaf",
+        "companyName": "(주)케이티디에스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:30.826Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, CSS 외                    수정일 24/11/21",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:30.826Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a9202f2270d08c2efb2",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49536989&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:34.885Z",
+      "deadline": "2025-01-10T11:48:34.885Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Software Engineer 신입/경력(3년 미만) 채용",
+      "updatedAt": "2024-12-10T11:48:34.885Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a9202f2270d08c2efb1",
+        "companyName": "어플라이드머티어리얼즈코리아(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:34.876Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, TypeScript, 데이터엔지니어, 네트워크, 빅데이터 외                    등록일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:34.876Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a9402f2270d08c2efb4",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=48103965&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:36.538Z",
+      "deadline": "2025-01-10T11:48:36.538Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "엔씨소프트 전 부문 수시 채용",
+      "updatedAt": "2024-12-10T11:48:36.538Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a9402f2270d08c2efb3",
+        "companyName": "(주)엔씨소프트",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:36.536Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, React, 백엔드/서버개발, Spring 외                    수정일 24/11/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:36.536Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  광진구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a9602f2270d08c2efb6",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49493135&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:38.295Z",
+      "deadline": "2025-01-10T11:48:38.294Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[대상정보기술] 각 부문별 신입·경력 채용",
+      "updatedAt": "2024-12-10T11:48:38.295Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  광진구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a9602f2270d08c2efb5",
+        "companyName": "대상정보기술(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:38.286Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, 데이터분석가, 데이터엔지니어 외                    수정일 24/12/01",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:38.286Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  오산시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a9702f2270d08c2efb8",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49553254&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:39.900Z",
+      "deadline": "2025-01-10T11:48:39.900Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2차전지 전산 직무 채용(경력)",
+      "updatedAt": "2024-12-10T11:48:39.900Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  오산시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a9702f2270d08c2efb7",
+        "companyName": "(주)필에너지",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:39.898Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, React, HTML 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:39.898Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a9902f2270d08c2efba",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49553283&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:41.663Z",
+      "deadline": "2025-01-10T11:48:41.663Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[사이버보안AI랩스] AI 서비스 기획자 채용",
+      "updatedAt": "2024-12-10T11:48:41.663Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a9902f2270d08c2efb9",
+        "companyName": "에스케이쉴더스(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:41.661Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 데이터분석가, 데이터엔지니어, 보안컨설팅 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:41.661Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  마포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a9b02f2270d08c2efbc",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49523729&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:43.413Z",
+      "deadline": "2025-01-10T11:48:43.413Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "원자력 HW개발/SW개발/철도사업엔지니어/구매생산 분야 채용 모집",
+      "updatedAt": "2024-12-10T11:48:43.413Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  마포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a9b02f2270d08c2efbb",
+        "companyName": "(주)우리기술",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:43.405Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 백엔드/서버개발, 보안컨설팅 외                    수정일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:43.405Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  화성시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a9d02f2270d08c2efbe",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49563660&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:45.136Z",
+      "deadline": "2025-01-10T11:48:45.135Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 하반기 각 부문별 신입/경력 채용",
+      "updatedAt": "2024-12-10T11:48:45.136Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  화성시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a9d02f2270d08c2efbd",
+        "companyName": "디아이티(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:45.133Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 앱개발, 유지보수, SE(시스템엔지니어) 외                    수정일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:45.133Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  서초구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a9e02f2270d08c2efbf",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49429606&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:46.790Z",
+      "deadline": "2025-01-10T11:48:46.790Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "금융솔루션 개발자 채용 (신입/경력)",
+      "updatedAt": "2024-12-10T11:48:46.790Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  서초구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828c402f2270d08c2eddb",
+        "companyName": "(주)디리아",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:40:52.214Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, CSS, 백엔드/서버개발, Spring 외                    등록일 24/11/19",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:46.788Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강동구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582aa002f2270d08c2efc0",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49462614&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:48.539Z",
+      "deadline": "2025-01-10T11:48:48.539Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[코스닥 상장사] 웹 프론트엔드 개발자 채용 (장애인채용)",
+      "updatedAt": "2024-12-10T11:48:48.539Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강동구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828c502f2270d08c2eddd",
+        "companyName": "알서포트(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:40:53.942Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    등록일 24/11/25",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:48.536Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  중구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582aa202f2270d08c2efc2",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49496304&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:50.198Z",
+      "deadline": "2025-01-10T11:48:50.198Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[KG모빌리언스] JAVA 웹, 응용 서비스 개발 및 운영 담당",
+      "updatedAt": "2024-12-10T11:48:50.198Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  중구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582aa202f2270d08c2efc1",
+        "companyName": "(주)케이지모빌리언스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:50.190Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, CSS, Spring 외                    수정일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:50.190Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582aa302f2270d08c2efc3",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49504605&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:51.978Z",
+      "deadline": "2025-01-10T11:48:51.978Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "금융 서비스 개발",
+      "updatedAt": "2024-12-10T11:48:51.978Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1702f2270d08c2ef3d",
+        "companyName": "(주)다우기술",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:31.657Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, 백엔드/서버개발 외                    등록일 24/12/02",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:51.970Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582aa502f2270d08c2efc5",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49430851&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:53.597Z",
+      "deadline": "2025-01-10T11:48:53.596Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "(주)포시에스 시스템 인프라 운영 관리자 채용 (신입/경력)",
+      "updatedAt": "2024-12-10T11:48:53.597Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582aa502f2270d08c2efc4",
+        "companyName": "(주)포시에스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:53.588Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 정보보안, SE(시스템엔지니어), 네트워크 외                    등록일 24/11/19",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:53.588Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  성동구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582aa702f2270d08c2efc7",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49432172&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:55.244Z",
+      "deadline": "2025-01-10T11:48:55.244Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024 하반기 개발직군 경력직 채용[커머스서비스개발/AA]",
+      "updatedAt": "2024-12-10T11:48:55.244Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  성동구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582aa702f2270d08c2efc6",
+        "companyName": "(주)플그림",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:55.236Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    수정일 24/11/22",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:55.236Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582aa802f2270d08c2efc9",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49214228&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:56.866Z",
+      "deadline": "2025-01-10T11:48:56.866Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 각 부문별 채용",
+      "updatedAt": "2024-12-10T11:48:56.866Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582aa802f2270d08c2efc8",
+        "companyName": "(주)킴스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:56.863Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, CSS, HTML, 백엔드/서버개발, 퍼블리셔 외                    수정일 24/10/17",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:56.863Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582aaa02f2270d08c2efca",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49446587&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:48:58.492Z",
+      "deadline": "2025-01-10T11:48:58.492Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "JAVA 개발자 신입 채용",
+      "updatedAt": "2024-12-10T11:48:58.492Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828ce02f2270d08c2ede7",
+        "companyName": "이에스이(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:41:02.185Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, React, CSS 외                    등록일 24/11/21",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:48:58.488Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  성동구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582aac02f2270d08c2efcc",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49550916&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:00.207Z",
+      "deadline": "2025-01-10T11:49:00.207Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "(주)팬코 디지털혁신실(전산,IT) 경력사원 채용",
+      "updatedAt": "2024-12-10T11:49:00.207Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  성동구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582aac02f2270d08c2efcb",
+        "companyName": "(주)팬코",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:49:00.196Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, React, CSS 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:00.196Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582aad02f2270d08c2efce",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49560477&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:01.794Z",
+      "deadline": "2025-01-10T11:49:01.794Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[신입] 플랫폼 운영/개발 담당자 채용",
+      "updatedAt": "2024-12-10T11:49:01.794Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582aad02f2270d08c2efcd",
+        "companyName": "이데아텍(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:49:01.790Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, TypeScript, Spring 외                    수정일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:01.790Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  송파구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582aaf02f2270d08c2efd0",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49550057&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:03.566Z",
+      "deadline": "2025-01-10T11:49:03.566Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "(주)앰진 프론트엔드 신입·경력 채용공고",
+      "updatedAt": "2024-12-10T11:49:03.566Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  송파구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582aaf02f2270d08c2efcf",
+        "companyName": "(주)앰진",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:49:03.559Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, CSS, 백엔드/서버개발, TypeScript 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:03.559Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ab102f2270d08c2efd1",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49529685&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:05.191Z",
+      "deadline": "2025-01-10T11:49:05.191Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "전사 프로그램 개발자(프론트엔드,내근,Vue3,마크업)",
+      "updatedAt": "2024-12-10T11:49:05.191Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758293602f2270d08c2ee5c",
+        "companyName": "(주)레디엔터테인먼트",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:46.500Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, TypeScript, Vue.js 외                    등록일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:05.182Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "부산  해운대구",
+        "city": "부산",
+        "country": "KR"
+      },
+      "_id": "67582ab202f2270d08c2efd2",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49548561&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=1aaecc9c-7ea9-44db-aab2-a550304c4b39",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:06.889Z",
+      "deadline": "2025-01-10T11:49:06.889Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "(기업부설연구소)웹&모바일 솔루션 개발자 모집",
+      "updatedAt": "2024-12-10T11:49:06.889Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "부산  해운대구",
+          "city": "부산",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828e402f2270d08c2edfe",
+        "companyName": "(주)아이오티플렉스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:41:24.505Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:06.887Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  마포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ab702f2270d08c2efd4",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49511300&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:10.999Z",
+      "deadline": "2025-01-10T11:49:10.999Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[중앙일보] 플랫폼개발팀 백엔드개발 경력 채용",
+      "updatedAt": "2024-12-10T11:49:10.999Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  마포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582ab602f2270d08c2efd3",
+        "companyName": "중앙일보(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:49:10.989Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, 백엔드/서버개발, Spring 외                    수정일 24/12/02",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:10.989Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ab802f2270d08c2efd5",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49518321&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:12.631Z",
+      "deadline": "2025-01-10T11:49:12.631Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "프론트엔드 개발자 주니어 채용",
+      "updatedAt": "2024-12-10T11:49:12.631Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828ec02f2270d08c2ee08",
+        "companyName": "잇솔루션(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:41:32.639Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, React, CSS 외                    수정일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:12.623Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  과천시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582aba02f2270d08c2efd7",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49452884&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:14.301Z",
+      "deadline": "2025-01-10T11:49:14.301Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "에이엠㈜ 신입/경력 채용 모집",
+      "updatedAt": "2024-12-10T11:49:14.301Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  과천시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582aba02f2270d08c2efd6",
+        "companyName": "에이엠(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:49:14.294Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, 백엔드/서버개발, 기술지원 외                    수정일 24/11/22",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:14.294Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  마포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582abc02f2270d08c2efd9",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49141200&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:16.028Z",
+      "deadline": "2025-01-10T11:49:16.028Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[500만팔로워를 보유한 플랫폼 기업] 각 부문 신입 및 경력 채용",
+      "updatedAt": "2024-12-10T11:49:16.028Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  마포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582abc02f2270d08c2efd8",
+        "companyName": "(주)웨이팅홀딩스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:49:16.026Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, CSS, HTML, 퍼블리셔 외                    수정일 24/11/07",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:16.026Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582abd02f2270d08c2efda",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49445132&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:17.688Z",
+      "deadline": "2025-01-10T11:49:17.687Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[국내TOP7로펌/법무법인YK] 강남본사 프론트엔드/ 백엔드 개발담당자 채용",
+      "updatedAt": "2024-12-10T11:49:17.688Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a8d02f2270d08c2efad",
+        "companyName": "법무법인와이케이",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:48:29.159Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    수정일 24/11/21",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:17.679Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "부산  해운대구",
+        "city": "부산",
+        "country": "KR"
+      },
+      "_id": "67582abf02f2270d08c2efdb",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49180074&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:19.356Z",
+      "deadline": "2025-01-10T11:49:19.355Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[부산본사] 백엔드, 프론트엔드 개발자(경력) 채용",
+      "updatedAt": "2024-12-10T11:49:19.356Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "부산  해운대구",
+          "city": "부산",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828ef02f2270d08c2ee0c",
+        "companyName": "(주)제로웹",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:41:35.869Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, React 외                    수정일 24/10/11",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:19.349Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  성동구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ac102f2270d08c2efdc",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49499782&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:21.007Z",
+      "deadline": "2025-01-10T11:49:21.006Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "프론트엔드(React, NextJS) 개발자를 모십니다.",
+      "updatedAt": "2024-12-10T11:49:21.007Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  성동구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828f602f2270d08c2ee14",
+        "companyName": "비코어(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:41:42.404Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, React, CSS 외                    등록일 24/11/30",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:20.999Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ac202f2270d08c2efdd",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49537742&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:22.680Z",
+      "deadline": "2025-01-10T11:49:22.679Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Java 개발자 채용",
+      "updatedAt": "2024-12-10T11:49:22.680Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828f902f2270d08c2ee18",
+        "companyName": "(주)지구소프트",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:41:45.695Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, CSS, Spring 외                    등록일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:22.670Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  송파구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ac402f2270d08c2efde",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49396264&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:24.334Z",
+      "deadline": "2025-01-10T11:49:24.334Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "JAVA웹개발자(신입~경력) 모집(서울 송파)",
+      "updatedAt": "2024-12-10T11:49:24.334Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  송파구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828fc02f2270d08c2ee1c",
+        "companyName": "(주)이노스피치",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:41:48.972Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, Spring, 기술지원 외                    수정일 24/11/13",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:24.325Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ac502f2270d08c2efdf",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49554886&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:25.993Z",
+      "deadline": "2025-01-10T11:49:25.993Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Java Backend 서비스 개발자 모집",
+      "updatedAt": "2024-12-10T11:49:25.993Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758290f02f2270d08c2ee30",
+        "companyName": "트럼피아(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:07.859Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, 백엔드/서버개발 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:25.985Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  서초구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ac702f2270d08c2efe0",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49553949&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:27.631Z",
+      "deadline": "2025-01-10T11:49:27.631Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Vision System SW Junior 개발자",
+      "updatedAt": "2024-12-10T11:49:27.631Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  서초구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758291102f2270d08c2ee32",
+        "companyName": "(주)아이브",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:09.667Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, S/W, C++ 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:27.622Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ac902f2270d08c2efe1",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49462342&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:29.293Z",
+      "deadline": "2025-03-10T11:49:29.293Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[픽셀소프트웨어] Frontend 개발자 채용",
+      "updatedAt": "2024-12-10T11:49:29.293Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758291302f2270d08c2ee34",
+        "companyName": "(주)픽셀소프트웨어",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:11.328Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, React, CSS, HTML 외                    수정일 24/11/29",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:29.283Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  파주시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582aca02f2270d08c2efe2",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49555159&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:30.955Z",
+      "deadline": "2025-01-10T11:49:30.955Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "웹 개발자 신입 채용",
+      "updatedAt": "2024-12-10T11:49:30.955Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  파주시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758291602f2270d08c2ee38",
+        "companyName": "아이엔마케팅(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:14.632Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, Java, 웹개발, CSS 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:30.952Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582acc02f2270d08c2efe3",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49235245&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:32.663Z",
+      "deadline": "2025-01-10T11:49:32.663Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "결제시스템 Java, Jsp 신입 개발자 채용(금융권 경험자 우대)",
+      "updatedAt": "2024-12-10T11:49:32.663Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758291802f2270d08c2ee3a",
+        "companyName": "알리엑스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:16.234Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, React, Spring 외                    등록일 24/10/21",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:32.660Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강서구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ace02f2270d08c2efe5",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49522376&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:34.329Z",
+      "deadline": "2025-01-10T11:49:34.329Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "JAVA 프로그래머 채용 (신입/경력)",
+      "updatedAt": "2024-12-10T11:49:34.329Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강서구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582ace02f2270d08c2efe4",
+        "companyName": "주식회사 사이언스소프트",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:49:34.321Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 웹개발, 백엔드/서버개발, Spring 외                    등록일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:34.321Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  서초구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ad002f2270d08c2efe7",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49550212&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:36.041Z",
+      "deadline": "2025-01-10T11:49:36.041Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[(주)뷰리드] 개발팀 웹 퍼블리셔 경력 모집",
+      "updatedAt": "2024-12-10T11:49:36.041Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  서초구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582ad002f2270d08c2efe6",
+        "companyName": "(주)뷰리드 강남오피스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:49:36.037Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, CSS, HTML 외                    수정일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:36.037Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ad102f2270d08c2efe8",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49556989&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:37.710Z",
+      "deadline": "2025-01-10T11:49:37.710Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "생성형AI기반 웹서비스 개발자 채용",
+      "updatedAt": "2024-12-10T11:49:37.710Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758292202f2270d08c2ee46",
+        "companyName": "(주)지피티코리아",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:26.028Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, Spring, DBA 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:37.703Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  관악구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582ad302f2270d08c2efe9",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49518994&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:39.438Z",
+      "deadline": "2025-01-10T11:49:39.438Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "웹 개발자 신입/경력 채용",
+      "updatedAt": "2024-12-10T11:49:39.438Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  관악구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758292602f2270d08c2ee48",
+        "companyName": "(주)플랙스뉴럴랩스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:30.177Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, 프론트엔드, 웹개발, CSS, HTML 외                    등록일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:39.429Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "부산  해운대구",
+        "city": "부산",
+        "country": "KR"
+      },
+      "_id": "67582ad502f2270d08c2efeb",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49557586&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:41.035Z",
+      "deadline": "2025-03-10T11:49:41.035Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "UI/UX디자인 및 웹 퍼블리싱 채용",
+      "updatedAt": "2024-12-10T11:49:41.035Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "부산  해운대구",
+          "city": "부산",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582ad502f2270d08c2efea",
+        "companyName": "(주)트레이드잇",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:49:41.032Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, CSS, 퍼블리셔, 웹디자인, 일러스트레이터 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:41.032Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "부산  사하구",
+        "city": "부산",
+        "country": "KR"
+      },
+      "_id": "67582ad602f2270d08c2efed",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49543717&location=ts&searchword=javascript&searchType=search&paid_fl=n&search_uuid=bf43dd8f-aabb-4cfa-af83-28859f6f4d32",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:49:42.741Z",
+      "deadline": "2025-01-10T11:49:42.741Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[창신] 2024년 12월 경력직 수시채용 (IPA, 관계사IT운영)",
+      "updatedAt": "2024-12-10T11:49:42.741Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "부산  사하구",
+          "city": "부산",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582ad602f2270d08c2efec",
+        "companyName": "(주)창신아이엔씨",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:49:42.725Z",
+        "culture": [],
+        "images": [],
+        "industry": "Javascript, Java, 유지보수, 클라우드, ERP 외                    등록일 24/12/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:49:42.725Z",
+        "verified": false
+      }
+    }
+  ]
+}

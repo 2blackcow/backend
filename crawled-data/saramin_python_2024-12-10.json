@@ -1,0 +1,5216 @@
+{
+  "metadata": {
+    "keyword": "python",
+    "totalJobs": 100,
+    "crawledAt": "2024-12-10T11:46:41.659Z",
+    "stats": {
+      "totalProcessed": 100,
+      "newJobs": 0,
+      "updatedJobs": 100,
+      "errorCount": 0
+    },
+    "errors": []
+  },
+  "jobs": [
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758296e02f2270d08c2ee96",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49551418&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:43:42.064Z",
+      "deadline": "2025-01-10T11:43:42.064Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "INTERN",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "AI 개발(Python), 데이터분석 및 사업 기획 모집(인턴)",
+      "updatedAt": "2024-12-10T11:43:42.064Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758296e02f2270d08c2ee95",
+        "companyName": "(주)마크클라우드",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:43:42.061Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, 머신러닝, 빅데이터, 데이터분석가 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:43:42.061Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758296f02f2270d08c2ee97",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49458119&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:43:43.733Z",
+      "deadline": "2025-01-10T11:43:43.732Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[코스닥 상장사] Linux,Python,Java,Api 개발자 모집(신입/경력)",
+      "updatedAt": "2024-12-10T11:43:43.733Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828c002f2270d08c2edd7",
+        "companyName": "(주)파이오링크",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:40:48.978Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, 솔루션, Linux 외                    수정일 24/11/25",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:43:43.724Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758297102f2270d08c2ee99",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49559707&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:43:45.394Z",
+      "deadline": "2025-01-10T11:43:45.394Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "소프트웨어 개발 (Java&Python) 신입 및 경력 모집",
+      "updatedAt": "2024-12-10T11:43:45.394Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758297102f2270d08c2ee98",
+        "companyName": "마인드원(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:43:45.386Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, 솔루션, 웹개발, 앱개발 외                    등록일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:43:45.386Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758297302f2270d08c2ee9a",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49441156&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:43:47.034Z",
+      "deadline": "2025-01-10T11:43:47.034Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "AI 개발(Python), 데이터분석 및 사업 기획 모집",
+      "updatedAt": "2024-12-10T11:43:47.034Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758296e02f2270d08c2ee95",
+        "companyName": "(주)마크클라우드",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:43:42.061Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, 머신러닝, 빅데이터, 데이터분석가 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:43:47.025Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758297402f2270d08c2ee9b",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49545109&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:43:48.666Z",
+      "deadline": "2025-01-10T11:43:48.666Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "ORACLE/PYTHON/JAVA/SQL 개발자 모집",
+      "updatedAt": "2024-12-10T11:43:48.666Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758293e02f2270d08c2ee66",
+        "companyName": "㈜칸테크",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:54.753Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, 솔루션, 웹개발, 데이터시각화 외                    등록일 24/12/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:43:48.658Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758297602f2270d08c2ee9c",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49555726&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:43:50.341Z",
+      "deadline": "2025-01-10T11:43:50.341Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[솔루션] 백엔드 개발자 모집(python)",
+      "updatedAt": "2024-12-10T11:43:50.341Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758294902f2270d08c2ee70",
+        "companyName": "조베이스(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:43:05.780Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, 솔루션, 빅데이터 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:43:50.332Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758297802f2270d08c2ee9e",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49463011&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:43:52.018Z",
+      "deadline": "2025-01-10T11:43:52.017Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "마켓빌리 JAVA / DBA / TA / AA / PYTHON Recruitment",
+      "updatedAt": "2024-12-10T11:43:52.018Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758297802f2270d08c2ee9d",
+        "companyName": "플러거",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:43:52.008Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, AWS, DBA, SI개발 외                    등록일 24/11/25",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:43:52.008Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  성동구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758297902f2270d08c2eea0",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49537488&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:43:53.651Z",
+      "deadline": "2025-01-10T11:43:53.651Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[코레이즈]  Python (Flask) 웹 개발자 채용 (신입-보충역)",
+      "updatedAt": "2024-12-10T11:43:53.651Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  성동구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758297902f2270d08c2ee9f",
+        "companyName": "(주)코레이즈홀딩스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:43:53.640Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 솔루션, Linux, 웹개발, 백엔드/서버개발 외                    등록일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:43:53.640Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  양천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758297b02f2270d08c2eea2",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49476675&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:43:55.271Z",
+      "deadline": "2025-01-10T11:43:55.271Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[재택근무] REACT · PHP · PYTHON 개발자 모집",
+      "updatedAt": "2024-12-10T11:43:55.271Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  양천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758297b02f2270d08c2eea1",
+        "companyName": "행복쇼핑(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:43:55.262Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, 솔루션, AWS, 머신러닝 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:43:55.262Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758297c02f2270d08c2eea4",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49555065&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:43:56.959Z",
+      "deadline": "2025-01-10T11:43:56.958Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Python Back-end Engineer",
+      "updatedAt": "2024-12-10T11:43:56.959Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758297c02f2270d08c2eea3",
+        "companyName": "올거나이즈코리아(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:43:56.950Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, AWS, 머신러닝, 웹개발 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:43:56.950Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "부산  남구",
+        "city": "부산",
+        "country": "KR"
+      },
+      "_id": "6758297e02f2270d08c2eea6",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49535457&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:43:58.716Z",
+      "deadline": "2025-01-10T11:43:58.716Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[DealMakers] BE, Python Software Engineer 모집",
+      "updatedAt": "2024-12-10T11:43:58.716Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "부산  남구",
+          "city": "부산",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758297e02f2270d08c2eea5",
+        "companyName": "(주)꿈선생",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:43:58.708Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, 딥러닝, 머신러닝 외                    수정일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:43:58.708Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758298002f2270d08c2eea7",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49510655&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:00.406Z",
+      "deadline": "2025-01-10T11:44:00.406Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "파이썬(Python) 크롤링 가능하신분 구합니다.",
+      "updatedAt": "2024-12-10T11:44:00.406Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758291d02f2270d08c2ee40",
+        "companyName": "(주)케이엘피",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:21.113Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, Linux, 웹개발, 백엔드/서버개발 외                    등록일 24/12/02",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:00.397Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758298202f2270d08c2eea8",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49554854&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:02.022Z",
+      "deadline": "2025-01-10T11:44:02.022Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "파이썬(Python) 기반의 풀스택 개발자 모십니다.",
+      "updatedAt": "2024-12-10T11:44:02.022Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758291d02f2270d08c2ee40",
+        "companyName": "(주)케이엘피",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:21.113Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 백엔드/서버개발, 유지보수, 프론트엔드 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:02.019Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758298302f2270d08c2eea9",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49554830&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:03.689Z",
+      "deadline": "2025-01-10T11:44:03.689Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "파이썬(Python) 백엔드 개발자 모십니다",
+      "updatedAt": "2024-12-10T11:44:03.689Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758291d02f2270d08c2ee40",
+        "companyName": "(주)케이엘피",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:42:21.113Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 백엔드/서버개발, 앱개발, 프론트엔드 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:03.680Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  안양시 동안구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "6758298502f2270d08c2eeab",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49472340&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:05.344Z",
+      "deadline": "2025-01-10T11:44:05.344Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "지속 성장가능한 개발 인력 모집-Flutter,Python,JAVA,재택가능",
+      "updatedAt": "2024-12-10T11:44:05.344Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  안양시 동안구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758298502f2270d08c2eeaa",
+        "companyName": "(주)만들다컴퍼니",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:05.341Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, 웹개발, 백엔드/서버개발, 앱개발 외                    수정일 24/11/26",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:05.341Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758298702f2270d08c2eeac",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49403967&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:07.074Z",
+      "deadline": "2025-01-10T11:44:07.074Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[코스닥상장사] L4-L7 스위치 개발 Linux,Python,C(신입/경력)",
+      "updatedAt": "2024-12-10T11:44:07.074Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828c002f2270d08c2edd7",
+        "companyName": "(주)파이오링크",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:40:48.978Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, 솔루션, Linux, 빅데이터 외                    수정일 24/11/27",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:07.065Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758298802f2270d08c2eeae",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49383748&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:08.738Z",
+      "deadline": "2025-01-10T11:44:08.738Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "백엔드 엔지니어 (Python) 채용",
+      "updatedAt": "2024-12-10T11:44:08.738Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758298802f2270d08c2eead",
+        "companyName": "(주)엘리스그룹",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:08.729Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, Linux, 백엔드/서버개발, RDBMS 외                    수정일 24/11/13",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:08.729Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758298a02f2270d08c2eeb0",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49429895&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:10.367Z",
+      "deadline": "2025-01-10T11:44:10.366Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[강남/5000천이상] 플랫폼 백엔드 개발 (Python) 정규직",
+      "updatedAt": "2024-12-10T11:44:10.367Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758298a02f2270d08c2eeaf",
+        "companyName": "(주)사람인에이치에스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:10.364Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 솔루션, AWS, 웹개발, 빅데이터 외                    수정일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:10.364Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  종로구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758298c02f2270d08c2eeb2",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49394122&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:12.085Z",
+      "deadline": "2025-01-10T11:44:12.085Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "AI 서비스 - 자연어처리(NLP)/Python 엔진 개발 (추가 채용)",
+      "updatedAt": "2024-12-10T11:44:12.085Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  종로구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758298c02f2270d08c2eeb1",
+        "companyName": "아일리스프런티어(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:12.075Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, 머신러닝, 백엔드/서버개발, 알고리즘 외                    수정일 24/11/13",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:12.075Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "인천  서구",
+        "city": "인천",
+        "country": "KR"
+      },
+      "_id": "6758298d02f2270d08c2eeb4",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49409574&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4856e2cb-53aa-45fc-ac95-bd17f306f531",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:13.747Z",
+      "deadline": "2025-01-10T11:44:13.746Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "차량용 S/W Test 자동화 검증(Python)",
+      "updatedAt": "2024-12-10T11:44:13.747Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "인천  서구",
+          "city": "인천",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758298d02f2270d08c2eeb3",
+        "companyName": "(주)링크제니시스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:13.744Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, QA/테스터, S/W 외                    등록일 24/11/15",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:13.744Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  용인시 수지구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "6758299102f2270d08c2eeb6",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49461161&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:17.877Z",
+      "deadline": "2025-01-10T11:44:17.877Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "정규 Python/Data Engineer (신입/경력) 채용",
+      "updatedAt": "2024-12-10T11:44:17.877Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  용인시 수지구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758299102f2270d08c2eeb5",
+        "companyName": "(주)데이터다이나믹스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:17.864Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, Linux, 빅데이터, 클라우드 외                    등록일 24/11/25",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:17.864Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  영등포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758299302f2270d08c2eeb8",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49214740&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:19.506Z",
+      "deadline": "2025-01-10T11:44:19.506Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[신입/경력] 온라인 광고 플랫폼 개발 (Python, Django)",
+      "updatedAt": "2024-12-10T11:44:19.506Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  영등포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758299302f2270d08c2eeb7",
+        "companyName": "(주)니트머스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:19.497Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 웹개발, 백엔드/서버개발, S/W, Django 외                    수정일 24/11/22",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:19.497Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기전체",
+        "city": "경기전체",
+        "country": "KR"
+      },
+      "_id": "6758299502f2270d08c2eeba",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49521064&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:21.155Z",
+      "deadline": "2025-01-10T11:44:21.155Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "코박(Cobak) 백엔드 개발자 [3년 이상](Python,Django)",
+      "updatedAt": "2024-12-10T11:44:21.155Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기전체",
+          "city": "경기전체",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758299502f2270d08c2eeb9",
+        "companyName": "(주)판도라티비",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:21.148Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 웹개발, 백엔드/서버개발, Django 외                    등록일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:21.148Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758299602f2270d08c2eebc",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49527589&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:22.760Z",
+      "deadline": "2025-01-10T11:44:22.760Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "NestJS+Python 백엔드 개발자 팀장 채용",
+      "updatedAt": "2024-12-10T11:44:22.760Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758299602f2270d08c2eebb",
+        "companyName": "(주)씨에스엠17",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:22.750Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, AWS, 웹개발, 백엔드/서버개발 외                    수정일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:22.750Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758299802f2270d08c2eebe",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49550993&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:24.418Z",
+      "deadline": "2025-01-10T11:44:24.417Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "국가연구과제 SI 개발자 모집(Java/Python/React/SpringBoot)",
+      "updatedAt": "2024-12-10T11:44:24.418Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758299802f2270d08c2eebd",
+        "companyName": "(주)케파스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:24.401Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, 웹개발, Javascript, React 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:24.401Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  관악구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758299a02f2270d08c2eec0",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49435007&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:26.047Z",
+      "deadline": "2025-01-10T11:44:26.047Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "INTERN",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "소프트웨어 엔지니어 인턴 모집 (Python)",
+      "updatedAt": "2024-12-10T11:44:26.047Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  관악구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758299a02f2270d08c2eebf",
+        "companyName": "(주)크립토랩",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:26.037Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 머신러닝, Linux, S/W, SDK 외                    수정일 24/11/20",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:26.037Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "전남  나주시",
+        "city": "전남",
+        "country": "KR"
+      },
+      "_id": "6758299b02f2270d08c2eec2",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49548046&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:27.826Z",
+      "deadline": "2025-01-10T11:44:27.825Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[한전KDN(나주혁신)] Python 업무시스템 유지보수운영(중급)",
+      "updatedAt": "2024-12-10T11:44:27.826Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "전남  나주시",
+          "city": "전남",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758299b02f2270d08c2eec1",
+        "companyName": "스타프리마(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:27.822Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, 웹개발, 유지보수 외                    수정일 24/12/08",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:27.822Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  안양시 만안구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "6758299d02f2270d08c2eec4",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49265971&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:29.437Z",
+      "deadline": "2025-03-10T11:44:29.437Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "(주)디지키 Python 데이터 처리 및 분석 프로그램 개발자 모집",
+      "updatedAt": "2024-12-10T11:44:29.437Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  안양시 만안구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758299d02f2270d08c2eec3",
+        "companyName": "(주)디지키",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:29.429Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 알고리즘, Pandas, 솔루션업체, 소프트웨어개발                    등록일 24/10/24",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:29.429Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  관악구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "6758299f02f2270d08c2eec6",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49505260&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:31.150Z",
+      "deadline": "2025-01-10T11:44:31.150Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "파이썬(Python, AWS) 경력 개발자 채용",
+      "updatedAt": "2024-12-10T11:44:31.150Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  관악구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758299f02f2270d08c2eec5",
+        "companyName": "(주)한국미용데이터",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:31.142Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 솔루션, AWS, 웹개발, 백엔드/서버개발 외                    등록일 24/12/02",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:31.142Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "대구  동구",
+        "city": "대구",
+        "country": "KR"
+      },
+      "_id": "675829a002f2270d08c2eec8",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49490854&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:32.810Z",
+      "deadline": "2025-01-10T11:44:32.810Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "파이썬(Python) 및 앱(ios/안드로이드) 개발자 모집",
+      "updatedAt": "2024-12-10T11:44:32.810Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "대구  동구",
+          "city": "대구",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829a002f2270d08c2eec7",
+        "companyName": "주식회사비전코어",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:32.799Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 솔루션, iOS, 소프트웨어개발                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:32.799Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829a202f2270d08c2eeca",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49448256&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:34.531Z",
+      "deadline": "2025-01-10T11:44:34.531Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Full Stack Engineer (Python, C# Developer) 풀스택 개발자",
+      "updatedAt": "2024-12-10T11:44:34.531Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829a202f2270d08c2eec9",
+        "companyName": "NIMBYX CAPITAL INC.",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:34.519Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, ASP, ASP.NET, Azure 외                    등록일 24/11/21",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:34.519Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "대구  수성구",
+        "city": "대구",
+        "country": "KR"
+      },
+      "_id": "675829a402f2270d08c2eecc",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49217419&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:36.211Z",
+      "deadline": "2025-01-10T11:44:36.210Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[경력] Payment Service 개발팀 백엔드/Python,Django 정규직",
+      "updatedAt": "2024-12-10T11:44:36.211Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "대구  수성구",
+          "city": "대구",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829a402f2270d08c2eecb",
+        "companyName": "(주)기가스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:36.200Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 솔루션, 웹개발, 백엔드/서버개발, Django 외                    수정일 24/10/31",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:36.200Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경북  포항시 남구",
+        "city": "경북",
+        "country": "KR"
+      },
+      "_id": "675829a502f2270d08c2eece",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49335167&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:37.958Z",
+      "deadline": "2025-03-10T11:44:37.958Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "프로그램 개발자 모집(Machine Vision, AI(Python), C, C#, C++)",
+      "updatedAt": "2024-12-10T11:44:37.958Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경북  포항시 남구",
+          "city": "경북",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829a502f2270d08c2eecd",
+        "companyName": "(주)케이텍",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:37.951Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, SE(시스템엔지니어), SI개발, 알고리즘 외                    수정일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:37.951Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  중구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829a702f2270d08c2eed0",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49486631&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:39.622Z",
+      "deadline": "2025-01-10T11:44:39.622Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "INTERN",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[웹개발] Python 백엔드/서버 인턴 개발자 채용 (ASAP)",
+      "updatedAt": "2024-12-10T11:44:39.622Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  중구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829a702f2270d08c2eecf",
+        "companyName": "오에스원(OS1)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:39.608Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 웹개발, 백엔드/서버개발, API, Pandas 외                    등록일 24/11/28",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:39.608Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "675829a902f2270d08c2eed2",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49532014&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:41.330Z",
+      "deadline": "2025-01-10T11:44:41.330Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[AI개발]Python,Java,사내 LLM 구축 숙련 개발자 구인[프리O]",
+      "updatedAt": "2024-12-10T11:44:41.330Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829a902f2270d08c2eed1",
+        "companyName": "씨맥스주식회사",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:41.321Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, 머신러닝, 웹개발, 백엔드/서버개발 외                    수정일 24/12/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:41.321Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울전체",
+        "city": "서울전체",
+        "country": "KR"
+      },
+      "_id": "675829ab02f2270d08c2eed4",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49524352&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:43.006Z",
+      "deadline": "2025-01-10T11:44:43.006Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Python 개발자",
+      "updatedAt": "2024-12-10T11:44:43.006Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울전체",
+          "city": "서울전체",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829ab02f2270d08c2eed3",
+        "companyName": "(주)미니레코드",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:43.003Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, AWS, 머신러닝, 웹개발 외                    등록일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:43.003Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  안양시 동안구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "675829ac02f2270d08c2eed6",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49551891&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:44.803Z",
+      "deadline": "2025-01-10T11:44:44.803Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "PC 제어프로그래머 (C, C++, C#, Python)",
+      "updatedAt": "2024-12-10T11:44:44.803Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  안양시 동안구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829ac02f2270d08c2eed5",
+        "companyName": "한단제어기술",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:44.801Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, SE(시스템엔지니어), 라즈베리파이, 로봇엔지니어 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:44.801Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "대전  대덕구",
+        "city": "대전",
+        "country": "KR"
+      },
+      "_id": "675829ae02f2270d08c2eed8",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49534074&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:46.404Z",
+      "deadline": "2025-01-10T11:44:46.404Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "C와 Python 개발을 담당할 분을 구합니다",
+      "updatedAt": "2024-12-10T11:44:46.404Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "대전  대덕구",
+          "city": "대전",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829ae02f2270d08c2eed7",
+        "companyName": "사이테크놀로지스(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:46.396Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 개발PM, 임베디드, 하드웨어                    등록일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:46.396Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울전체",
+        "city": "서울전체",
+        "country": "KR"
+      },
+      "_id": "675829b002f2270d08c2eeda",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49406482&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:48.039Z",
+      "deadline": "2025-01-10T11:44:48.039Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[AI디지털플랫폼팀] 웹개발자(Python, React, 경력 5년 이상) 경력직 채용",
+      "updatedAt": "2024-12-10T11:44:48.039Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울전체",
+          "city": "서울전체",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829b002f2270d08c2eed9",
+        "companyName": "(주)이노룰스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:48.036Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 솔루션, 머신러닝, 웹개발, 백엔드/서버개발 외                    등록일 24/11/15",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:48.036Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829b102f2270d08c2eedb",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49434190&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=a23ce586-34a0-4d44-86cd-5d1b1464ab2f",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:49.912Z",
+      "deadline": "2025-01-10T11:44:49.912Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[코스닥상장사] 전문연구요원(병역특례)모집 Linux,Python,C",
+      "updatedAt": "2024-12-10T11:44:49.912Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675828c002f2270d08c2edd7",
+        "companyName": "(주)파이오링크",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:40:48.978Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, 솔루션, Linux, 빅데이터 외                    등록일 24/11/20",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:49.898Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  영등포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829b602f2270d08c2eedd",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49564746&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:54.020Z",
+      "deadline": "2025-01-10T11:44:54.020Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "한영넉스 AI연구소 - Python 어플리케이션 개발자 채용",
+      "updatedAt": "2024-12-10T11:44:54.020Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  영등포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829b602f2270d08c2eedc",
+        "companyName": "(주)한영넉스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:54.015Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Linux, Windows, 임베디드리눅스 외                    수정일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:54.015Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829b702f2270d08c2eedf",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49200418&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:55.761Z",
+      "deadline": "2025-01-10T11:44:55.761Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Python 개발 연구원 채용",
+      "updatedAt": "2024-12-10T11:44:55.761Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829b702f2270d08c2eede",
+        "companyName": "(주)엑스오비스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:55.751Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 솔루션, S/W, Pytorch, Tensorflow 외                    등록일 24/10/15",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:55.751Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829b902f2270d08c2eee0",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49387510&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:57.514Z",
+      "deadline": "2025-01-10T11:44:57.514Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Python 개발 연구원 채용",
+      "updatedAt": "2024-12-10T11:44:57.514Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829b702f2270d08c2eede",
+        "companyName": "(주)엑스오비스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:55.751Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, 솔루션, 머신러닝, 웹개발 외                    등록일 24/11/12",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:57.504Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 수정구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "675829bb02f2270d08c2eee2",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49416273&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:44:59.281Z",
+      "deadline": "2025-01-10T11:44:59.281Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "에스트래픽 Python 개발자 모집 (경력)",
+      "updatedAt": "2024-12-10T11:44:59.281Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 수정구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829bb02f2270d08c2eee1",
+        "companyName": "에스트래픽(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:59.273Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 백엔드/서버개발, SI개발, Git, Redis 외                    수정일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:44:59.273Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "인천  연수구",
+        "city": "인천",
+        "country": "KR"
+      },
+      "_id": "675829bd02f2270d08c2eee4",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49478598&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:01.265Z",
+      "deadline": "2025-01-10T11:45:01.265Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Python개발자 채용(경력)",
+      "updatedAt": "2024-12-10T11:45:01.265Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "인천  연수구",
+          "city": "인천",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829bd02f2270d08c2eee3",
+        "companyName": "에이치에스소프트(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:01.258Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 솔루션, 알고리즘, AI(인공지능), OpenCV 외                    등록일 24/11/27",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:01.258Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829bf02f2270d08c2eee6",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49421817&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:03.065Z",
+      "deadline": "2025-01-10T11:45:03.065Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "국내 광고 포털 유지 보수 및 신규 서비스 개발 (Python)",
+      "updatedAt": "2024-12-10T11:45:03.065Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829bf02f2270d08c2eee5",
+        "companyName": "(주)애드크림",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:03.058Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 웹개발, 백엔드/서버개발, API, ASP 외                    등록일 24/11/18",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:03.058Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  종로구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829c002f2270d08c2eee8",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49393082&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:04.698Z",
+      "deadline": "2025-01-10T11:45:04.697Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[RNA] Full Stack Python Developer 채용공고",
+      "updatedAt": "2024-12-10T11:45:04.698Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  종로구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829c002f2270d08c2eee7",
+        "companyName": "알엔에이애널리틱스(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:04.688Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 웹개발, 백엔드/서버개발, 앱개발 외                    등록일 24/11/13",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:04.688Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  성동구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829c202f2270d08c2eee9",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49537495&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:06.380Z",
+      "deadline": "2025-01-10T11:45:06.380Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[코레이즈]  Python (Flask) 웹 개발자 채용 (경력)",
+      "updatedAt": "2024-12-10T11:45:06.380Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  성동구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758297902f2270d08c2ee9f",
+        "companyName": "(주)코레이즈홀딩스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:43:53.640Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 솔루션, Linux, 웹개발, 백엔드/서버개발 외                    등록일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:06.371Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  종로구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829c402f2270d08c2eeea",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49565317&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:08.056Z",
+      "deadline": "2025-01-10T11:45:08.056Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "AI 서비스 - 자연어처리 (NLP) / Python 엔진 개발 (추가 채용)",
+      "updatedAt": "2024-12-10T11:45:08.056Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  종로구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758298c02f2270d08c2eeb1",
+        "companyName": "아일리스프런티어(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:12.075Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, 머신러닝, 웹개발, 빅데이터 외                    등록일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:08.047Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "인천  서구",
+        "city": "인천",
+        "country": "KR"
+      },
+      "_id": "675829c502f2270d08c2eeeb",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49197247&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:09.668Z",
+      "deadline": "2025-01-10T11:45:09.668Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "차량용 S/W Test 자동화 개발(Python)",
+      "updatedAt": "2024-12-10T11:45:09.668Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "인천  서구",
+          "city": "인천",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758298d02f2270d08c2eeb3",
+        "companyName": "(주)링크제니시스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:13.744Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, S/W, 솔루션업체 외                    등록일 24/10/15",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:09.660Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  군포시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "675829c702f2270d08c2eeed",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49533258&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:11.367Z",
+      "deadline": "2025-01-10T11:45:11.367Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "임베디드(C++, Python) 소프트개발자모집",
+      "updatedAt": "2024-12-10T11:45:11.367Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  군포시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829c702f2270d08c2eeec",
+        "companyName": "(주)뷰엠테크놀로지",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:11.359Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, Linux, 임베디드 외                    등록일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:11.359Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829c902f2270d08c2eeef",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49326427&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:13.207Z",
+      "deadline": "2025-01-10T11:45:13.207Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[(주)도로시] QGIS 플러그인 파이썬(Python) 개발자 모집",
+      "updatedAt": "2024-12-10T11:45:13.207Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829c902f2270d08c2eeee",
+        "companyName": "(주)도로시",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:13.199Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 웹개발, PostgreSQL, QGIS, 플러그인 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:13.199Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  중구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829ca02f2270d08c2eef1",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49371521&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:14.890Z",
+      "deadline": "2025-01-10T11:45:14.890Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[금융/핀테크/Python] 백엔드 엔지니어(리드급)",
+      "updatedAt": "2024-12-10T11:45:14.890Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  중구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829ca02f2270d08c2eef0",
+        "companyName": "(주)파운트",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:14.878Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 웹개발, 앱개발, 프론트엔드 외                    등록일 24/11/11",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:14.878Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  중구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829cc02f2270d08c2eef2",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49497052&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:16.585Z",
+      "deadline": "2025-01-10T11:45:16.585Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[파운트/핀테크] 백엔드 개발자(Python/리드급)",
+      "updatedAt": "2024-12-10T11:45:16.585Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  중구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829ca02f2270d08c2eef0",
+        "companyName": "(주)파운트",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:14.878Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 웹개발, 빅데이터, 백엔드/서버개발 외                    등록일 24/11/29",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:16.575Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829ce02f2270d08c2eef4",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49464566&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:18.164Z",
+      "deadline": "2025-01-10T11:45:18.164Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "백엔드 개발자 (Python)",
+      "updatedAt": "2024-12-10T11:45:18.164Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829ce02f2270d08c2eef3",
+        "companyName": "(주)바로팜",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:18.156Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 웹개발, 백엔드/서버개발, 인프라 외                    등록일 24/11/25",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:18.156Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울전체",
+        "city": "서울전체",
+        "country": "KR"
+      },
+      "_id": "675829cf02f2270d08c2eef6",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49436228&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:19.787Z",
+      "deadline": "2025-01-10T11:45:19.787Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Python BackEnd Developer",
+      "updatedAt": "2024-12-10T11:45:19.787Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울전체",
+          "city": "서울전체",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829cf02f2270d08c2eef5",
+        "companyName": "(주)에이젠글로벌",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:19.779Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 머신러닝, 웹개발, 백엔드/서버개발 외                    등록일 24/11/20",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:19.779Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  성동구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829d102f2270d08c2eef8",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49466077&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:21.404Z",
+      "deadline": "2025-01-10T11:45:21.404Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "웹개발자(Python, DJango)",
+      "updatedAt": "2024-12-10T11:45:21.404Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  성동구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829d102f2270d08c2eef7",
+        "companyName": "리걸테크(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:21.397Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 웹개발, 백엔드/서버개발, 블록체인, Django 외                    등록일 24/11/25",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:21.397Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "675829d302f2270d08c2eefa",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49528517&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:23.051Z",
+      "deadline": "2025-01-10T11:45:23.051Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "C#,C++,Python 프로그래머 모집(판교)",
+      "updatedAt": "2024-12-10T11:45:23.051Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829d302f2270d08c2eef9",
+        "companyName": "(주)비비파트너스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:23.048Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, 솔루션, 머신러닝, 데이터분석가 외                    등록일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:23.048Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829d402f2270d08c2eefb",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49517378&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:24.655Z",
+      "deadline": "2025-01-10T11:45:24.655Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[개발팀]NestJS+Python 백엔드 팀장 채용",
+      "updatedAt": "2024-12-10T11:45:24.655Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758299602f2270d08c2eebb",
+        "companyName": "(주)씨에스엠17",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:22.750Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, AWS, 백엔드/서버개발, GCP 외                    등록일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:24.651Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "675829d602f2270d08c2eefd",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49498551&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=6b62647d-694a-40e2-8e96-0ecb632173c0",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:26.488Z",
+      "deadline": "2025-01-10T11:45:26.487Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[Python SI 판교] 문서 비교 시스템 개선   (3)",
+      "updatedAt": "2024-12-10T11:45:26.488Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829d602f2270d08c2eefc",
+        "companyName": "(주)제이투이",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:26.485Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 웹개발, Django, PostgreSQL 외                    수정일 24/11/29",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:26.485Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  수원시 권선구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "675829da02f2270d08c2eefe",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49562796&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:30.581Z",
+      "deadline": "2025-01-10T11:45:30.581Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[Python SI 수원] 차세대 SCM 프로젝트 (2)",
+      "updatedAt": "2024-12-10T11:45:30.581Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  수원시 권선구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829d602f2270d08c2eefc",
+        "companyName": "(주)제이투이",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:26.485Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, Pandas, SCM, Lambda 외                    수정일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:30.578Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  종로구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829dc02f2270d08c2ef00",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49460880&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:32.346Z",
+      "deadline": "2025-01-10T11:45:32.345Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "글로벌금융솔루션기업 Full Stack Python Developer",
+      "updatedAt": "2024-12-10T11:45:32.346Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  종로구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829dc02f2270d08c2eeff",
+        "companyName": "(주)에이스파트너스서치펌",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:32.334Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Django, Flask, Git, 클라우드 외                    등록일 24/11/25",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:32.334Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "675829dd02f2270d08c2ef02",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49478357&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:33.908Z",
+      "deadline": "2025-01-10T11:45:33.908Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "AI 엔지니어 리더(Python,Golang 사용자) / 중견기업",
+      "updatedAt": "2024-12-10T11:45:33.908Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829dd02f2270d08c2ef01",
+        "companyName": "(주)스카우트플랜",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:33.906Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Linux, 챗봇, AI(인공지능), GoLang 외                    수정일 24/11/27",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:33.906Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "대구  동구",
+        "city": "대구",
+        "country": "KR"
+      },
+      "_id": "675829df02f2270d08c2ef03",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49396874&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:35.572Z",
+      "deadline": "2025-01-10T11:45:35.572Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "파이썬(Python) 및 앱(ios/안드로이드) 개발자",
+      "updatedAt": "2024-12-10T11:45:35.572Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "대구  동구",
+          "city": "대구",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829a002f2270d08c2eec7",
+        "companyName": "주식회사비전코어",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:32.799Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 솔루션, 정보보안, 정보통신, iOS 외                    수정일 24/11/27",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:35.569Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829e102f2270d08c2ef04",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49394729&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:37.176Z",
+      "deadline": "2025-01-10T11:45:37.176Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[솔루션] 백엔드 경력 개발자 모집(python)",
+      "updatedAt": "2024-12-10T11:45:37.176Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "6758294902f2270d08c2ee70",
+        "companyName": "조베이스(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:43:05.780Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, 솔루션, 빅데이터 외                    등록일 24/11/13",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:37.168Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "충남  천안시 동남구",
+        "city": "충남",
+        "country": "KR"
+      },
+      "_id": "675829e202f2270d08c2ef06",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49360095&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:38.946Z",
+      "deadline": "2025-01-10T11:45:38.946Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Vision/MFC/C# Python Tensorflow CUDA yolo v8 개발직",
+      "updatedAt": "2024-12-10T11:45:38.946Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "충남  천안시 동남구",
+          "city": "충남",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829e202f2270d08c2ef05",
+        "companyName": "화랑",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:38.938Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, 솔루션, DBMS, S/W 외                    등록일 24/11/08",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:38.938Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강서구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829e402f2270d08c2ef08",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49553421&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:40.644Z",
+      "deadline": "2025-01-10T11:45:40.644Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Python을 이용한 Data Migration",
+      "updatedAt": "2024-12-10T11:45:40.644Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강서구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829e402f2270d08c2ef07",
+        "companyName": "(주)스톤빌드",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:40.637Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 데이터엔지니어, OracleDB, PostgreSQL, SQL 외                    등록일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:40.637Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  송파구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829e602f2270d08c2ef0a",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49492064&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:42.317Z",
+      "deadline": "2025-01-10T11:45:42.317Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "AI 솔루션 백엔드(Python) 개발자",
+      "updatedAt": "2024-12-10T11:45:42.317Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  송파구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829e602f2270d08c2ef09",
+        "companyName": "코리아써치",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:42.314Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, 솔루션, 머신러닝, AI(인공지능) 외                    등록일 24/11/29",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:42.314Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  송파구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829e702f2270d08c2ef0b",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49399149&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:43.989Z",
+      "deadline": "2025-03-10T11:45:43.989Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "(주식회사 미니레코드) Python 개발자 채용",
+      "updatedAt": "2024-12-10T11:45:43.989Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  송파구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829ab02f2270d08c2eed3",
+        "companyName": "(주)미니레코드",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:43.003Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, AWS, 머신러닝, 유지보수 외                    등록일 24/11/14",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:43.979Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829e902f2270d08c2ef0d",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49458928&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:45.646Z",
+      "deadline": "2025-01-10T11:45:45.645Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[경력AI 개발] Full stack 개발자/React/Python",
+      "updatedAt": "2024-12-10T11:45:45.646Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829e902f2270d08c2ef0c",
+        "companyName": "(주)데이터트리",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:45.634Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, 솔루션, 머신러닝, 웹개발 외                    등록일 24/11/24",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:45.634Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  마포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829eb02f2270d08c2ef0f",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49494384&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:47.363Z",
+      "deadline": "2025-01-10T11:45:47.363Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Python 백엔드 개발자",
+      "updatedAt": "2024-12-10T11:45:47.363Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  마포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829eb02f2270d08c2ef0e",
+        "companyName": "(주)펫박스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:47.359Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 웹개발, 백엔드/서버개발, 프론트엔드 외                    등록일 24/11/29",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:47.359Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울전체",
+        "city": "서울전체",
+        "country": "KR"
+      },
+      "_id": "675829ec02f2270d08c2ef10",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49524436&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:48.993Z",
+      "deadline": "2025-01-10T11:45:48.992Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Python 개발자 채용 (4~8년차)",
+      "updatedAt": "2024-12-10T11:45:48.993Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울전체",
+          "city": "서울전체",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829ab02f2270d08c2eed3",
+        "companyName": "(주)미니레코드",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:44:43.003Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, AWS, 머신러닝, 웹개발 외                    등록일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:48.984Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  마포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829ee02f2270d08c2ef12",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49526974&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:50.720Z",
+      "deadline": "2025-01-10T11:45:50.720Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Back-End Engineer (Python/Django)",
+      "updatedAt": "2024-12-10T11:45:50.720Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  마포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829ee02f2270d08c2ef11",
+        "companyName": "(주)뮤즈라이브",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:50.712Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 웹개발, 백엔드/서버개발, 인프라 외                    등록일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:50.712Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829f002f2270d08c2ef14",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49546505&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:52.459Z",
+      "deadline": "2025-01-10T11:45:52.459Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[IT 솔루션 및 통합서비스 전문기업] 파이썬(Python) 개발자",
+      "updatedAt": "2024-12-10T11:45:52.459Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829f002f2270d08c2ef13",
+        "companyName": "에이치알포유(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:52.450Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, 솔루션, AWS, 데이터엔지니어 외                    등록일 24/12/07",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:52.450Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  구로구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829f202f2270d08c2ef16",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49506728&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:54.142Z",
+      "deadline": "2025-01-10T11:45:54.141Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "(주)버블콘 백엔드 개발 PL/PM (Python) 경력직 채용",
+      "updatedAt": "2024-12-10T11:45:54.142Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  구로구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829f202f2270d08c2ef15",
+        "companyName": "(주)버블콘",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:54.132Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 솔루션업체                    등록일 24/12/02",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:54.132Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  마포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829f302f2270d08c2ef18",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49529072&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:55.864Z",
+      "deadline": "2025-01-10T11:45:55.864Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[주식회사 퍼스널애드] 풀스택 개발자 모집(C#,Python, Php)",
+      "updatedAt": "2024-12-10T11:45:55.864Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  마포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829f302f2270d08c2ef17",
+        "companyName": "퍼스널(personal)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:55.848Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, 백엔드/서버개발, S/W, 알고리즘 외                    수정일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:55.848Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829f502f2270d08c2ef1a",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49371816&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:57.522Z",
+      "deadline": "2025-01-10T11:45:57.521Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Python 개발자 채용",
+      "updatedAt": "2024-12-10T11:45:57.522Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829f502f2270d08c2ef19",
+        "companyName": "스퀘어네트(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:57.512Z",
+        "culture": [],
+        "images": [],
+        "industry": "Java, 솔루션, 웹개발, 빅데이터, S/W 외                    등록일 24/11/11",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:57.512Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829f702f2270d08c2ef1c",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49540795&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:45:59.334Z",
+      "deadline": "2025-01-10T11:45:59.334Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "Python/Django 백엔드 개발자",
+      "updatedAt": "2024-12-10T11:45:59.334Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829f702f2270d08c2ef1b",
+        "companyName": "프라이스원",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:45:59.325Z",
+        "culture": [],
+        "images": [],
+        "industry": "웹개발, 백엔드/서버개발, Django, Docker, MySQL 외                    수정일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:45:59.325Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울전체",
+        "city": "서울전체",
+        "country": "KR"
+      },
+      "_id": "675829f902f2270d08c2ef1e",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49333137&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:01.075Z",
+      "deadline": "2025-01-10T11:46:01.075Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[국비무료IT취업]자바파이썬/웹개발/빅데이터/인공지능",
+      "updatedAt": "2024-12-10T11:46:01.075Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울전체",
+          "city": "서울전체",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829f902f2270d08c2ef1d",
+        "companyName": "(사)한국아이씨티기술협회",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:01.065Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, 솔루션, AWS, 웹개발 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:01.065Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  영등포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "675829fa02f2270d08c2ef20",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49521011&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=76122b57-a652-45e5-9018-5299255e1afe",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:02.752Z",
+      "deadline": "2025-01-10T11:46:02.752Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[여의도/338만] 한국평가데이터 DB분석 및 컨설팅 (SQL,파이썬)",
+      "updatedAt": "2024-12-10T11:46:02.752Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  영등포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829fa02f2270d08c2ef1f",
+        "companyName": "에이스휴먼파워(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:02.744Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, 딥러닝, 머신러닝, 빅데이터 외                    등록일 24/12/03",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:02.744Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "인천  연수구",
+        "city": "인천",
+        "country": "KR"
+      },
+      "_id": "675829ff02f2270d08c2ef22",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49536040&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:07.048Z",
+      "deadline": "2025-01-10T11:46:07.048Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[인천 송도 근무] 파이썬 개발자 사원 채용",
+      "updatedAt": "2024-12-10T11:46:07.048Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "인천  연수구",
+          "city": "인천",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "675829ff02f2270d08c2ef21",
+        "companyName": "(주)쇼엠",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:07.044Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, 솔루션, AWS 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:07.044Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  용인시 기흥구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a0002f2270d08c2ef24",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49501156&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:08.649Z",
+      "deadline": "2025-01-10T11:46:08.649Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "파이썬 활용가능 데이터 분석가 모집",
+      "updatedAt": "2024-12-10T11:46:08.649Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  용인시 기흥구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a0002f2270d08c2ef23",
+        "companyName": "이다웰(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:08.647Z",
+        "culture": [],
+        "images": [],
+        "industry": "데이터분석가, 소프트웨어개발                    등록일 24/11/30",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:08.647Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  성동구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a0202f2270d08c2ef26",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49524064&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:10.324Z",
+      "deadline": "2025-01-10T11:46:10.324Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "파이썬 프로그램 개발자",
+      "updatedAt": "2024-12-10T11:46:10.324Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  성동구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a0202f2270d08c2ef25",
+        "companyName": "(주)뉴로다임",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:10.320Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Linux, 웹개발, 백엔드/서버개발, SE(시스템엔지니어) 외                    등록일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:10.320Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  마포구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a0302f2270d08c2ef28",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49501493&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:11.996Z",
+      "deadline": "2025-01-10T11:46:11.995Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "파이썬 개발자 경력직 모집, AI vision 경험자 우대",
+      "updatedAt": "2024-12-10T11:46:11.996Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  마포구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a0302f2270d08c2ef27",
+        "companyName": "(주)댄디테크앤리얼티",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:11.993Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, 딥러닝, 솔루션, 신경망, 컴퓨터비전 외                    수정일 24/12/01",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:11.993Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a0502f2270d08c2ef2a",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49432001&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:13.679Z",
+      "deadline": "2025-01-10T11:46:13.678Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "시니어 파이썬 백엔드 엔지니어 채용",
+      "updatedAt": "2024-12-10T11:46:13.679Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a0502f2270d08c2ef29",
+        "companyName": "(주)알로카도스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:13.671Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 웹개발, 백엔드/서버개발, SE(시스템엔지니어) 외                    수정일 24/11/19",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:13.671Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  금천구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a0702f2270d08c2ef2c",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49496037&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:15.487Z",
+      "deadline": "2025-01-10T11:46:15.487Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[(주)아이젝스] Mac Agent 파이썬 개발자 채용 공고",
+      "updatedAt": "2024-12-10T11:46:15.487Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  금천구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a0702f2270d08c2ef2b",
+        "companyName": "(주)아이젝스",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:15.476Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, MacOS, 네트워크, 솔루션업체, 소프트웨어개발                    등록일 24/11/29",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:15.476Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  관악구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a0902f2270d08c2ef2e",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49236283&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:17.208Z",
+      "deadline": "2025-01-10T11:46:17.208Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[유망 스타트업] [경력] 백엔드 개발자 채용 (파이썬)",
+      "updatedAt": "2024-12-10T11:46:17.208Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  관악구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a0902f2270d08c2ef2d",
+        "companyName": "링크루트",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:17.198Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, AWS, 백엔드/서버개발, 프론트엔드, Django 외                    등록일 24/10/21",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:17.198Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a0a02f2270d08c2ef30",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49563510&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:18.829Z",
+      "deadline": "2025-01-10T11:46:18.829Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "파이썬 개발자 과정 강사 채용",
+      "updatedAt": "2024-12-10T11:46:18.829Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a0a02f2270d08c2ef2f",
+        "companyName": "(주)세종교육",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:18.818Z",
+        "culture": [],
+        "images": [],
+        "industry": "보조강사, 파트강사, 학원강사, 학원보조, IT강사 외                    수정일 24/12/10",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:18.818Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경남  김해시",
+        "city": "경남",
+        "country": "KR"
+      },
+      "_id": "67582a0c02f2270d08c2ef32",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49528716&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:20.546Z",
+      "deadline": "2025-01-10T11:46:20.545Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "PART_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "전산회계/세무2급, 파이썬(코딩), 오토캐드 강사 모집",
+      "updatedAt": "2024-12-10T11:46:20.546Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경남  김해시",
+          "city": "경남",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a0c02f2270d08c2ef31",
+        "companyName": "동원컴퓨터학원",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:20.534Z",
+        "culture": [],
+        "images": [],
+        "industry": "파트강사, 훈련교사, IT강사, 전산회계, 코딩 외                    등록일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:20.534Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  종로구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a0e02f2270d08c2ef34",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49408730&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:22.255Z",
+      "deadline": "2025-01-10T11:46:22.255Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "CONTRACT",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[NCS 훈련교사] 빅데이터(파이썬)엘러스틱서치,자바웹 전문강사",
+      "updatedAt": "2024-12-10T11:46:22.255Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  종로구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a0e02f2270d08c2ef33",
+        "companyName": "더조은컴퓨터아카데미종로",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:22.247Z",
+        "culture": [],
+        "images": [],
+        "industry": "직업훈련, 컴퓨터교육, 훈련교사, IT학원                    등록일 24/11/15",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:22.247Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  용산구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a0f02f2270d08c2ef36",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49526136&location=ts&searchword=python&searchType=search&paid_fl=y&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:23.917Z",
+      "deadline": "2025-03-10T11:46:23.916Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "AI 개발자(AI Engineer/Full Stack Developer) 채용",
+      "updatedAt": "2024-12-10T11:46:23.917Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  용산구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a0f02f2270d08c2ef35",
+        "companyName": "브랜드인게이지먼트네트워크인크(영업소)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:23.904Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, AWS, Linux, 음성인식 외                    등록일 24/12/04",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:23.904Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강남구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a1102f2270d08c2ef38",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49524700&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:25.616Z",
+      "deadline": "2025-01-10T11:46:25.616Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "INTERN",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 12월 캐논코리아 신입사원(채용연계형인턴)모집",
+      "updatedAt": "2024-12-10T11:46:25.616Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강남구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1102f2270d08c2ef37",
+        "companyName": "캐논코리아 주식회사",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:25.614Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, 솔루션, Linux 외                    수정일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:25.614Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "충북  보은군",
+        "city": "충북",
+        "country": "KR"
+      },
+      "_id": "67582a1402f2270d08c2ef3a",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49381850&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:28.135Z",
+      "deadline": "2025-01-10T11:46:28.135Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "㈜우진플라임 부문별 인재채용",
+      "updatedAt": "2024-12-10T11:46:28.135Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "충북  보은군",
+          "city": "충북",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1402f2270d08c2ef39",
+        "companyName": "(주)우진플라임",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:28.133Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, 웹개발, 게임개발 외                    수정일 24/11/22",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:28.133Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  강서구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a1502f2270d08c2ef3c",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=48464887&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:29.881Z",
+      "deadline": "2025-01-10T11:46:29.881Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "㈜위즈코리아/㈜위즈COK '24년 하반기 신입/경력 사원 모집",
+      "updatedAt": "2024-12-10T11:46:29.881Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  강서구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1502f2270d08c2ef3b",
+        "companyName": "(주)위즈코리아",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:29.878Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, 솔루션, Linux 외                    수정일 24/11/20",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:29.878Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a1702f2270d08c2ef3e",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49488843&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:31.660Z",
+      "deadline": "2025-01-10T11:46:31.660Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "다우기술 경력사원 대규모 인재영입",
+      "updatedAt": "2024-12-10T11:46:31.660Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1702f2270d08c2ef3d",
+        "companyName": "(주)다우기술",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:31.657Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, 딥러닝, 솔루션 외                    수정일 24/11/28",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:31.657Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "전국",
+        "city": "전국",
+        "country": "KR"
+      },
+      "_id": "67582a1902f2270d08c2ef40",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49523319&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:33.377Z",
+      "deadline": "2025-01-10T11:46:33.377Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "INTERMEDIATE",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2025년 NH농협캐피탈 신규직원[신입·경력] 채용",
+      "updatedAt": "2024-12-10T11:46:33.377Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "전국",
+          "city": "전국",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1902f2270d08c2ef3f",
+        "companyName": "엔에이치농협캐피탈(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:33.372Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, C++, Java, 웹개발, 데이터분석가 외                    수정일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:33.372Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울전체",
+        "city": "서울전체",
+        "country": "KR"
+      },
+      "_id": "67582a1b02f2270d08c2ef42",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49525317&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:35.048Z",
+      "deadline": "2025-01-10T11:46:35.048Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 메리츠화재 하반기 각 부문별 신입/경력 채용",
+      "updatedAt": "2024-12-10T11:46:35.048Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울전체",
+          "city": "서울전체",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1b02f2270d08c2ef41",
+        "companyName": "메리츠화재해상보험(주)",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:35.046Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, Linux, SE(시스템엔지니어), STT 외                    수정일 24/12/05",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:35.046Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  성남시 분당구",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a1c02f2270d08c2ef44",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49507897&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:36.840Z",
+      "deadline": "2025-01-10T11:46:36.840Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "2024년 신입 및 경력 채용",
+      "updatedAt": "2024-12-10T11:46:36.840Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  성남시 분당구",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1c02f2270d08c2ef43",
+        "companyName": "(주)디알텍",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:36.836Z",
+        "culture": [],
+        "images": [],
+        "industry": "C++, 머신러닝, Linux, 유지보수, 퍼블리셔 외                    수정일 24/12/06",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:36.836Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "서울  서초구",
+        "city": "서울",
+        "country": "KR"
+      },
+      "_id": "67582a1e02f2270d08c2ef46",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49534588&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:38.512Z",
+      "deadline": "2025-01-10T11:46:38.512Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "㈜영신디엔씨 각 부문 신입 및 경력 채용",
+      "updatedAt": "2024-12-10T11:46:38.512Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "서울  서초구",
+          "city": "서울",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a1e02f2270d08c2ef45",
+        "companyName": "(주)영신디엔씨",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:38.509Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, H/W, S/W, CSS 외                    수정일 24/12/09",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:38.509Z",
+        "verified": false
+      }
+    },
+    {
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "KRW",
+        "isNegotiable": true
+      },
+      "location": {
+        "address": "경기  과천시",
+        "city": "경기",
+        "country": "KR"
+      },
+      "_id": "67582a2002f2270d08c2ef48",
+      "originalPostingUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=49509463&location=ts&searchword=python&searchType=search&paid_fl=n&search_uuid=4be225c9-f0d2-49dc-9d33-941206cb9c3c",
+      "__v": 0,
+      "applicantCount": 0,
+      "benefits": [],
+      "createdAt": "2024-12-10T11:46:40.138Z",
+      "deadline": "2025-01-10T11:46:40.137Z",
+      "description": "상세 내용 없음",
+      "experienceLevel": "ENTRY",
+      "isRemote": false,
+      "jobType": "FULL_TIME",
+      "requirements": [],
+      "skills": [],
+      "status": "ACTIVE",
+      "title": "[주 3일 원격근무] 비상교육 전체직무 상시채용",
+      "updatedAt": "2024-12-10T11:46:40.138Z",
+      "viewCount": 0,
+      "company": {
+        "location": {
+          "address": "경기  과천시",
+          "city": "경기",
+          "country": "KR"
+        },
+        "rating": {
+          "average": 0,
+          "count": 0
+        },
+        "_id": "67582a2002f2270d08c2ef47",
+        "companyName": "(주)비상교육",
+        "__v": 0,
+        "benefits": [],
+        "createdAt": "2024-12-10T11:46:40.127Z",
+        "culture": [],
+        "images": [],
+        "industry": "Python, Java, AWS, Linux, 백엔드/서버개발 외                    수정일 24/12/02",
+        "techStack": [],
+        "updatedAt": "2024-12-10T11:46:40.127Z",
+        "verified": false
+      }
+    }
+  ]
+}
