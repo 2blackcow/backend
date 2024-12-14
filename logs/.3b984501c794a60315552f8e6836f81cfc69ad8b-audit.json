@@ -24,6 +24,21 @@
             "date": 1733804379432,
             "name": "E:\\backend\\backend\\logs\\error-2024-12-10.log",
             "hash": "2f2f117ea2bc0d4ff304187d5afb8c33a160512cae76806f35da35a161a49899"
+        },
+        {
+            "date": 1733970056601,
+            "name": "E:\\backend\\backend\\logs\\error-2024-12-12.log",
+            "hash": "f013452d44a1f170230f88cd33247143760f125723ce4d951d63253bb22b1f52"
+        },
+        {
+            "date": 1734068836738,
+            "name": "E:\\backend\\backend\\logs\\error-2024-12-13.log",
+            "hash": "1bf3b893d0179d6703fe14cca43f1ca8a818342629c0ecde2635ee0efd45c388"
+        },
+        {
+            "date": 1734168494784,
+            "name": "E:\\backend\\backend\\logs\\error-2024-12-14.log",
+            "hash": "d69416539b87047c32da8b1f669421634a6af921a1c790177cbc452d2ffad6d0"
         }
     ],
     "hashType": "sha256"
