@@ -1,7 +1,7 @@
 const Application = require('../models/Application');
 const Job = require('../models/Job');
 const { pagination } = require('../config/constants');
-const mongoose = require('mongoose');  // mongoose 추가
+const mongoose = require('mongoose');
 
 const applicationController = {
   async apply(req, res, next) {
@@ -62,7 +62,7 @@ const applicationController = {
     }
   },
 
-  // getMyApplications는 동일하게 유지
+  
   async getMyApplications(req, res, next) {
     try {
       const page = parseInt(req.query.page) || pagination.DEFAULT_PAGE;
@@ -95,7 +95,7 @@ const applicationController = {
     }
   },
 
-  // cancelApplication은 동일하게 유지
+  // 지원 취소
   async cancelApplication(req, res, next) {
     try {
       const application = await Application.findOneAndDelete({
@@ -121,7 +121,7 @@ const applicationController = {
     }
   },
 
-  // updateApplicationStatus는 동일하게 유지
+  // 지원내역 업데이트트
   async updateApplicationStatus(req, res, next) {
     try {
       const { status } = req.body;
