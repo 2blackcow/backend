@@ -10,6 +10,7 @@ const userActivitySchema = new mongoose.Schema({
     type: String, 
     required: true,
     enum: [
+      'REGISTER',
       'VIEW_JOB',
       'APPLY_JOB',
       'SAVE_JOB',

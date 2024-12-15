@@ -7,9 +7,16 @@ const bookmarkController = {
     try {
       const { jobId } = req.params;
       const userId = req.user.id;
-
-      // 채용공고 존재 확인
-      const job = await Job.findById(jobId);
+  
+      // Job을 직접 찾거나 Company를 통해 Job을 찾음
+      const job = await Job.findOne({
+        $or: [
+          { _id: jobId },                  // Job의 ID로 직접 검색
+          { companyId: jobId },            // Company ID로 검색
+          { originalPostingUrl: jobId }     // 원본 URL로 검색
+        ]
+      });
+  
       if (!job) {
         return res.status(404).json({
           status: 'error',
@@ -17,10 +24,13 @@ const bookmarkController = {
           message: '채용공고를 찾을 수 없습니다.'
         });
       }
-
+  
       // 북마크 존재 확인
-      const existingBookmark = await Bookmark.findOne({ jobId, userId });
-
+      const existingBookmark = await Bookmark.findOne({
+        jobId: job._id,
+        userId
+      });
+  
       if (existingBookmark) {
         // 북마크 제거
         await Bookmark.findByIdAndDelete(existingBookmark._id);
@@ -31,7 +41,12 @@ const bookmarkController = {
         });
       } else {
         // 북마크 추가
-        const bookmark = await Bookmark.create({ jobId, userId });
+        const bookmark = await Bookmark.create({
+          jobId: job._id,
+          userId,
+          status: 'INTERESTED',
+          isNotificationEnabled: true
+        });
         res.status(201).json({
           status: 'success',
           message: '북마크가 추가되었습니다.',

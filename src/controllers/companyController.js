@@ -76,22 +76,28 @@ const companyController = {
       const page = parseInt(req.query.page) || pagination.DEFAULT_PAGE;
       const limit = parseInt(req.query.limit) || pagination.DEFAULT_LIMIT;
       const skip = (page - 1) * limit;
-
-      // 필터 구성
-      const filter = {};
-      if (req.query.industry) filter.industry = req.query.industry;
-      if (req.query.location) filter['location.city'] = req.query.location;
-
-      const companies = await Company.find(filter)
+  
+      const companies = await Company.find()
         .skip(skip)
-        .limit(limit)
-        .select('-__v');
-
-      const total = await Company.countDocuments(filter);
-
+        .limit(limit);
+  
+      // 각 회사의 채용공고 정보도 함께 가져오기
+      const companiesWithJobs = await Promise.all(companies.map(async company => {
+        const companyObj = company.toObject();
+        const job = await Job.findOne({ companyId: company._id });
+        return {
+          ...companyObj,
+          id: companyObj._id,
+          mongoId: companyObj._id,
+          jobId: job ? job._id : null  // 채용공고 ID 추가
+        };
+      }));
+  
+      const total = await Company.countDocuments();
+  
       res.json({
         status: 'success',
-        data: { companies },
+        data: { companies: companiesWithJobs },
         pagination: {
           currentPage: page,
           totalPages: Math.ceil(total / limit),

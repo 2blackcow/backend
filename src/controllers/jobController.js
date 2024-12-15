@@ -7,34 +7,28 @@ const jobController = {
       const page = parseInt(req.query.page) || pagination.DEFAULT_PAGE;
       const limit = parseInt(req.query.limit) || pagination.DEFAULT_LIMIT;
       const skip = (page - 1) * limit;
-
-      // 필터 구성
-      const filter = { status: 'ACTIVE' };
-      if (req.query.location) filter['location.city'] = req.query.location;
-      if (req.query.experienceLevel) filter.experienceLevel = req.query.experienceLevel;
-      if (req.query.jobType) filter.jobType = req.query.jobType;
-      if (req.query.skills) filter.skills = { $in: req.query.skills.split(',') };
-
-      // 정렬 옵션
-      const sort = {};
-      if (req.query.sortBy) {
-        const [field, order] = req.query.sortBy.split(':');
-        sort[field] = order === 'desc' ? -1 : 1;
-      } else {
-        sort.createdAt = -1;
-      }
-
-      const jobs = await Job.find(filter)
-        .populate('companyId', 'companyName location industry')
-        .sort(sort)
+  
+      const jobs = await Job.find()
+        .populate({
+          path: 'companyId',
+          select: 'companyName location industry'
+        })
+        .sort({ createdAt: -1 })
         .skip(skip)
         .limit(limit);
-
-      const total = await Job.countDocuments(filter);
-
+  
+      // ID 정보를 명시적으로 포함
+      const jobsWithIds = jobs.map(job => ({
+        ...job.toObject(),
+        _id: job._id,  // MongoDB의 실제 _id를 포함
+        jobId: job._id // 클라이언트용 id도 함께 제공
+      }));
+  
+      const total = await Job.countDocuments();
+  
       res.json({
         status: 'success',
-        data: { jobs },
+        data: { jobs: jobsWithIds },
         pagination: {
           currentPage: page,
           totalPages: Math.ceil(total / limit),

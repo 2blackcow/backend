@@ -1,32 +1,23 @@
 const Application = require('../models/Application');
 const Job = require('../models/Job');
 const { pagination } = require('../config/constants');
+const mongoose = require('mongoose');  // mongoose 추가
 
 const applicationController = {
   async apply(req, res, next) {
     try {
       const { jobId } = req.params;
       const userId = req.user.id;
-      const { coverLetter } = req.body;
+      const { coverLetter, resumeId } = req.body;
 
-      // 디버깅을 위한 로그 추가
-      console.log('Application request:', {
-        jobId,
-        userId,
-        coverLetter: coverLetter ? coverLetter.length : 0
+      // jobId로 직접 검색하거나 companyId를 통해 검색
+      const job = await Job.findOne({
+        $or: [
+          { _id: jobId },
+          { companyId: jobId }
+        ]
       });
 
-      // 기본적인 입력값 검증
-      if (!jobId) {
-        return res.status(400).json({
-          status: 'error',
-          code: 'INVALID_REQUEST',
-          message: '채용공고 ID가 필요합니다.'
-        });
-      }
-
-      // 채용공고 존재 여부 및 마감 확인
-      const job = await Job.findById(jobId);
       if (!job) {
         return res.status(404).json({
           status: 'error',
@@ -35,16 +26,12 @@ const applicationController = {
         });
       }
 
-      if (job.status === 'CLOSED') {
-        return res.status(400).json({
-          status: 'error',
-          code: 'JOB_CLOSED',
-          message: '마감된 채용공고입니다.'
-        });
-      }
-
       // 이미 지원했는지 확인
-      const existingApplication = await Application.findOne({ jobId, userId });
+      const existingApplication = await Application.findOne({
+        jobId: job._id,
+        userId
+      });
+
       if (existingApplication) {
         return res.status(400).json({
           status: 'error',
@@ -53,24 +40,29 @@ const applicationController = {
         });
       }
 
-      // 지원서 생성
-      const application = await Application.create({
-        jobId,
+      // 지원서 생성 (resumeId가 있는 경우에만 포함)
+      const applicationData = {
+        jobId: job._id,
         userId,
-        coverLetter,
-        status: 'PENDING'
-      });
+        coverLetter
+      };
+
+      if (resumeId && mongoose.Types.ObjectId.isValid(resumeId)) {
+        applicationData.resumeId = resumeId;
+      }
+
+      const application = await Application.create(applicationData);
 
       res.status(201).json({
         status: 'success',
         data: { application }
       });
     } catch (error) {
-      console.error('Error in apply:', error);
       next(error);
     }
   },
 
+  // getMyApplications는 동일하게 유지
   async getMyApplications(req, res, next) {
     try {
       const page = parseInt(req.query.page) || pagination.DEFAULT_PAGE;
@@ -103,6 +95,7 @@ const applicationController = {
     }
   },
 
+  // cancelApplication은 동일하게 유지
   async cancelApplication(req, res, next) {
     try {
       const application = await Application.findOneAndDelete({
@@ -128,6 +121,7 @@ const applicationController = {
     }
   },
 
+  // updateApplicationStatus는 동일하게 유지
   async updateApplicationStatus(req, res, next) {
     try {
       const { status } = req.body;
