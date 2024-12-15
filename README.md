@@ -225,8 +225,7 @@ key, cert 발급 후 app.js에서 경로 설정을 해줍니다.
 #### DB
 - 포트번호 3000번으로 포트포워딩
 - MongoDB Compass를 이용해 관리
-- 데이터베이스 접속: 
-- [MongoDB Atlas](mongodb://blackcow:4408@113.198.66.75:13220/job-search-db)
+- 데이터베이스 접속: (mongodb://blackcow:4408@113.198.66.75:13220/job-search-db)
  
 
 ---
