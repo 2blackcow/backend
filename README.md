@@ -215,7 +215,7 @@ openssl req -nodes -new -x509 -keyout server.key -out server.crt -days 365
 #### 2. 포트포워딩
 ----
 #### 백엔드 서버
-- 포트번호 443번번으로 포트포워딩
+- 포트번호 443번으로 포트포워딩
 
 #### DB
 - 포트번호 3000번으로 포트포워딩
