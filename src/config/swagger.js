@@ -1,4 +1,5 @@
 const swaggerJsdoc = require('swagger-jsdoc');
+const path = require('path');
 
 const options = {
   definition: {
@@ -10,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: process.env.API_URL || 'http://localhost:3000/api-docs',
+	      url: process.env.API_URL || 'https://113.198.66.75:17220',
       },
     ],
     components: {
@@ -30,8 +31,8 @@ const options = {
   },
   // API 경로 패턴 설정
   apis: [
-    './src/routes/*.js',
-    './src/models/*.js',
+    path.resolve(__dirname, '../routes/*.js'),
+    path.resolve(__dirname, '../models/*.js'),
   ],
 };
 

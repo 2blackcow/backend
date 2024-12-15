@@ -1,4 +1,6 @@
 const express = require('express');
+const fs = require('fs');
+const https = require('https');
 const cors = require('cors');
 const helmet = require('helmet');
 const compression = require('compression');
@@ -16,6 +18,10 @@ const { auth } = require('./middlewares/auth');
 const { morganMiddleware, requestLogger, responseLogger } = require('./middlewares/logger');
 const { defaultLimiter } = require('./middlewares/rateLimiter');
 const crawlerScheduler = require('./utils/crawler/crawlerScheduler');
+
+// key, cert
+const key = fs.readFileSync('/home/ubuntu/key.pem');
+const cert = fs.readFileSync('/home/ubuntu/cert.pem');
 
 // 라우터
 const authRoutes = require('./routes/authRoutes');
@@ -35,7 +41,7 @@ connectDB();
 // 기본 미들웨어
 app.use(helmet());  // 보안 헤더 설정
 app.use(cors({
-  origin: process.env.CORS_ORIGIN || 'http://localhost:3000/',
+	origin: process.env.CORS_ORIGIN || 'http://113.198.66.75:17220/',
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
@@ -131,10 +137,10 @@ app.use((err, req, res, next) => {
 });
 
 // 서버 시작
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  logger.info(`Server is running on port ${PORT}`);
-  logger.info(`API Documentation available at http://localhost:${PORT}/api-docs`);
+const PORT = process.env.PORT || 443;
+https.createServer({ key, cert }, app).listen(PORT,'0.0.0.0', () => {
+  console.log(`Server is running on http://113.198.66.75:443`);
+  console.log(`API Documentation available at http://113.198.66.75:17220/api-docs`);
 });
 
 // 프로세스 에러 처리
