@@ -1,0 +1,42 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd backend && node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cheerio": "^1.0.0",
+    "compression": "^1.7.5",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.4.1",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.4",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.11.5",
+    "node-cron": "^3.0.3",
+    "puppeteer": "^23.10.0",
+    "sequelize": "^6.37.5",
+    "sequelize-cli": "^6.6.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
