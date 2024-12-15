@@ -211,6 +211,11 @@ openssl req -nodes -new -x509 -keyout server.key -out server.crt -days 365
 ```
 다음의 ssl 인증서를 생성하는 명령어를 사용하여 서버에 https 설정을 적용했습니다.
 
+key, cert 발급 후 app.js에서 경로 설정을 해줍니다.
+
+- const key = fs.readFileSync('/home/ubuntu/key.pem');
+- const cert = fs.readFileSync('/home/ubuntu/cert.pem');
+
 
 #### 2. 포트포워딩
 ----
